@@ -711,16 +711,20 @@ function getItemImageURL(itemId, suffix) {
             // 兼容精简格式 (v/f) 和完整格式 (variation/filename)
             var variantFilename = item.variants[variantIndex].f || item.variants[variantIndex].filename;
             if (variantFilename) {
-                return LOCAL_IMG + variantFilename + ".png";
+                // 修复 2026-07-18: 家具 Remake 图片 filename 缺少下划线
+                var fixedFn = variantFilename.replace(/([^_])Remake/, "$1_Remake");
+                return LOCAL_IMG + fixedFn + ".png";
             }
         }
         // 回退到 base filename
         if (item.filename) {
-            return LOCAL_IMG + item.filename + ".png";
+            var fixedFn2 = item.filename.replace(/([^_])Remake/, "$1_Remake");
+            return LOCAL_IMG + fixedFn2 + ".png";
         }
     }
     if (item && item.filename) {
-        return LOCAL_IMG + item.filename + ".png";
+        var fixedFn3 = item.filename.replace(/([^_])Remake/, "$1_Remake");
+        return LOCAL_IMG + fixedFn3 + ".png";
     }
     // 回退到 IMG_MAP 查找
     var hex = cleanHexPadded(parseInt(itemId).toString(16));
@@ -729,9 +733,11 @@ function getItemImageURL(itemId, suffix) {
     return LOCAL_IMG + fn + ".png";
 }
 function getCdnImageURL(item) {
-    // 直接使用 filename 构建本地图片路径
-    // 服务器上的图片是原始文件名格式: img/AccessoryGlassBirthday0.png
-    if (item.filename) return LOCAL_IMG + item.filename + ".png";
+    // 修复 2026-07-18: 同上，Remake 前补下划线
+    if (item.filename) {
+        var fixedFn = item.filename.replace(/([^_])Remake/, "$1_Remake");
+        return LOCAL_IMG + fixedFn + ".png";
+    }
     return "";
 }
 function getLocalImageURL(fn) { return LOCAL_IMG + fn + ".png"; }
@@ -1052,7 +1058,19 @@ function buildSpecUI(item) {
         });
         var lbl = document.createElement("span");
         lbl.className = "spec-card-label";
-        lbl.textContent = VARIATION_ZH[v.variation] || v.variation || ("#"+(idx+1));
+                // 修复 2026-07-18: Variant Remake_X_Y 显示英文 -> 中文"款式 N"
+        var __vLbl;
+        if (VARIATION_ZH[v.variation]) {
+            __vLbl = VARIATION_ZH[v.variation];
+        } else if (v.variation && /^Variant Remake_(\d+)_(\d+)$/.test(v.variation)) {
+            var __vm = v.variation.match(/^Variant Remake_(\d+)_(\d+)$/);
+            __vLbl = "款式 " + (parseInt(__vm[1]) + 1);
+        } else if (v.variation) {
+            __vLbl = v.variation;
+        } else {
+            __vLbl = "#" + (idx + 1);
+        }
+        lbl.textContent = __vLbl;
         card.appendChild(inp);
         card.appendChild(lbl);
         so.appendChild(card);
