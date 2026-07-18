@@ -1,0 +1,3930 @@
+﻿{
+    "BUL08":  {
+                  "species":  "Bull",
+                  "zht_villager_name":  "卢尔曼",
+                  "acnh_villager_code":  "BUL08",
+                  "en_villager_name":  "Vic",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "卢尔曼"
+              },
+    "BRD00":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "阿燕",
+                  "acnh_villager_code":  "BRD00",
+                  "en_villager_name":  "Jay",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿燕"
+              },
+    "CHN02":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "黄金鸡",
+                  "acnh_villager_code":  "CHN02",
+                  "en_villager_name":  "Egbert",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "黄金鸡"
+              },
+    "RHN01":  {
+                  "species":  "Rhino",
+                  "zht_villager_name":  "梦梦",
+                  "acnh_villager_code":  "RHN01",
+                  "en_villager_name":  "Rhonda",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "梦梦"
+              },
+    "TIG01":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "戈麦斯",
+                  "acnh_villager_code":  "TIG01",
+                  "en_villager_name":  "Rowan",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "戈麦斯"
+              },
+    "CAT04":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "余子酱",
+                  "acnh_villager_code":  "CAT04",
+                  "en_villager_name":  "Kiki",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "余子酱"
+              },
+    "COW07":  {
+                  "species":  "Cow",
+                  "zht_villager_name":  "玉兰",
+                  "acnh_villager_code":  "COW07",
+                  "en_villager_name":  "Naomi",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "玉兰"
+              },
+    "DOG07":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "香草",
+                  "acnh_villager_code":  "DOG07",
+                  "en_villager_name":  "Daisy",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "香草"
+              },
+    "MUS10":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "罗萱儿",
+                  "acnh_villager_code":  "MUS10",
+                  "en_villager_name":  "Anicotti",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "罗萱儿"
+              },
+    "MUS01":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "韭菜",
+                  "acnh_villager_code":  "MUS01",
+                  "en_villager_name":  "Limberg",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "韭菜"
+              },
+    "DER11":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "佳芝",
+                  "acnh_villager_code":  "DER11",
+                  "en_villager_name":  "Shino",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "佳芝"
+              },
+    "CML":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "骆岚",
+                "acnh_villager_code":  "CML",
+                "en_villager_name":  "Saharah",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "骆岚"
+            },
+    "RBT01":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "玛莎",
+                  "acnh_villager_code":  "RBT01",
+                  "en_villager_name":  "Dotty",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "玛莎"
+              },
+    "DUK09":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "肥肝",
+                  "acnh_villager_code":  "DUK09",
+                  "en_villager_name":  "Drake",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "肥肝"
+              },
+    "CAT10":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "阿一",
+                  "acnh_villager_code":  "CAT10",
+                  "en_villager_name":  "Kid Cat",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿一"
+              },
+    "CRD05":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "皮隆孔",
+                  "acnh_villager_code":  "CRD05",
+                  "en_villager_name":  "Roswell",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "皮隆孔"
+              },
+    "BUL03":  {
+                  "species":  "Bull",
+                  "zht_villager_name":  "毛乐时",
+                  "acnh_villager_code":  "BUL03",
+                  "en_villager_name":  "Stu",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "毛乐时"
+              },
+    "HRS13":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "朱黎",
+                  "acnh_villager_code":  "HRS13",
+                  "en_villager_name":  "Julian",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "朱黎"
+              },
+    "KGR02":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "妈咪",
+                  "acnh_villager_code":  "KGR02",
+                  "en_villager_name":  "Carrie",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "妈咪"
+              },
+    "SHP15":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "茶茶丸",
+                  "acnh_villager_code":  "SHP15",
+                  "en_villager_name":  "Dom",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "茶茶丸"
+              },
+    "PIG17":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "古乃欣",
+                  "acnh_villager_code":  "PIG17",
+                  "en_villager_name":  "Agnes",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "古乃欣"
+              },
+    "KAL05":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "阿栗",
+                  "acnh_villager_code":  "KAL05",
+                  "en_villager_name":  "Ozzie",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿栗"
+              },
+    "TIG04":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "阿彪",
+                  "acnh_villager_code":  "TIG04",
+                  "en_villager_name":  "Leonardo",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿彪"
+              },
+    "HIP02":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "曹珂",
+                  "acnh_villager_code":  "HIP02",
+                  "en_villager_name":  "Bubbles",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "曹珂"
+              },
+    "HIP09":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "戴维",
+                  "acnh_villager_code":  "HIP09",
+                  "en_villager_name":  "Hippeux",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "戴维"
+              },
+    "CAT01":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "圆圆",
+                  "acnh_villager_code":  "CAT01",
+                  "en_villager_name":  "Mitzi",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "圆圆"
+              },
+    "MUS05":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "阿将",
+                  "acnh_villager_code":  "MUS05",
+                  "en_villager_name":  "Rod",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿将"
+              },
+    "ELP00":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "露露",
+                  "acnh_villager_code":  "ELP00",
+                  "en_villager_name":  "Opal",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "露露"
+              },
+    "PIG03":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "阿猪",
+                  "acnh_villager_code":  "PIG03",
+                  "en_villager_name":  "Hugh",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿猪"
+              },
+    "PGN01":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "企鹅达",
+                  "acnh_villager_code":  "PGN01",
+                  "en_villager_name":  "Roald",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "企鹅达"
+              },
+    "HAM00":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "哈姆",
+                  "acnh_villager_code":  "HAM00",
+                  "en_villager_name":  "Hamlet",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "哈姆"
+              },
+    "OST03":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "鹤兹",
+                  "acnh_villager_code":  "OST03",
+                  "en_villager_name":  "Sprocket",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "鹤兹"
+              },
+    "KPGB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "阿玉婆婆",
+                 "acnh_villager_code":  "KPGB",
+                 "en_villager_name":  "Grams",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "阿玉婆婆"
+             },
+    "BEA05":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "巴克思",
+                  "acnh_villager_code":  "BEA05",
+                  "en_villager_name":  "Nate",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "巴克思"
+              },
+    "CAT21":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "巧巧",
+                  "acnh_villager_code":  "CAT21",
+                  "en_villager_name":  "Katt",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "巧巧"
+              },
+    "FLG13":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "翡翠",
+                  "acnh_villager_code":  "FLG13",
+                  "en_villager_name":  "Jambette",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "翡翠"
+              },
+    "SQU04":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "咬咬",
+                  "acnh_villager_code":  "SQU04",
+                  "en_villager_name":  "Nibbles",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "咬咬"
+              },
+    "MNK02":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "远仁",
+                  "acnh_villager_code":  "MNK02",
+                  "en_villager_name":  "Simon",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "远仁"
+              },
+    "DER04":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "娣雅",
+                  "acnh_villager_code":  "DER04",
+                  "en_villager_name":  "Deirdre",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "娣雅"
+              },
+    "KAL03":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "思颖",
+                  "acnh_villager_code":  "KAL03",
+                  "en_villager_name":  "Sydney",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "思颖"
+              },
+    "KGR10":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "玛莉亚",
+                  "acnh_villager_code":  "KGR10",
+                  "en_villager_name":  "Marcie",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "玛莉亚"
+              },
+    "SHP12":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "彭澎",
+                  "acnh_villager_code":  "SHP12",
+                  "en_villager_name":  "Muffy",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "彭澎"
+              },
+    "GOR07":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "吴紫眉",
+                  "acnh_villager_code":  "GOR07",
+                  "en_villager_name":  "Violet",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "吴紫眉"
+              },
+    "BRD17":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "文雄",
+                  "acnh_villager_code":  "BRD17",
+                  "en_villager_name":  "Peck",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "文雄"
+              },
+    "CBR05":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "玩具熊",
+                  "acnh_villager_code":  "CBR05",
+                  "en_villager_name":  "Stitches",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "玩具熊"
+              },
+    "CBR03":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "阿钦",
+                  "acnh_villager_code":  "CBR03",
+                  "en_villager_name":  "Pudge",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿钦"
+              },
+    "TIG05":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "马丽莲",
+                  "acnh_villager_code":  "TIG05",
+                  "en_villager_name":  "Claudia",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "马丽莲"
+              },
+    "BRD09":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "羽毛",
+                  "acnh_villager_code":  "BRD09",
+                  "en_villager_name":  "Ace",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "羽毛"
+              },
+    "DOG05":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "傅兰",
+                  "acnh_villager_code":  "DOG05",
+                  "en_villager_name":  "Portia",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "傅兰"
+              },
+    "OCP04":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "吉格尔",
+                  "acnh_villager_code":  "OCP04",
+                  "en_villager_name":  "Cephalobot",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "吉格尔"
+              },
+    "DER10":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "雀儿喜",
+                  "acnh_villager_code":  "DER10",
+                  "en_villager_name":  "Chelsea",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "雀儿喜"
+              },
+    "HAM04":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "安安",
+                  "acnh_villager_code":  "HAM04",
+                  "en_villager_name":  "Soleil",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "安安"
+              },
+    "CAT19":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "艳后",
+                  "acnh_villager_code":  "CAT19",
+                  "en_villager_name":  "Ankha",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "艳后"
+              },
+    "CAT18":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "柠檬娜",
+                  "acnh_villager_code":  "CAT18",
+                  "en_villager_name":  "Lolly",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "柠檬娜"
+              },
+    "PGN14":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "冰莎",
+                  "acnh_villager_code":  "PGN14",
+                  "en_villager_name":  "Sprinkle",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "冰莎"
+              },
+    "RBT11":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "阿醋",
+                  "acnh_villager_code":  "RBT11",
+                  "en_villager_name":  "Claude",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿醋"
+              },
+    "HRS04":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "黑马",
+                  "acnh_villager_code":  "HRS04",
+                  "en_villager_name":  "Roscoe",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "黑马"
+              },
+    "RBT00":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "莉莉安",
+                  "acnh_villager_code":  "RBT00",
+                  "en_villager_name":  "Bunnie",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "莉莉安"
+              },
+    "BUL01":  {
+                  "species":  "Bull",
+                  "zht_villager_name":  "罗迪欧",
+                  "acnh_villager_code":  "BUL01",
+                  "en_villager_name":  "Rodeo",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "罗迪欧"
+              },
+    "WOL09":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "百合",
+                  "acnh_villager_code":  "WOL09",
+                  "en_villager_name":  "Skye",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "百合"
+              },
+    "PIG13":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "小芽",
+                  "acnh_villager_code":  "PIG13",
+                  "en_villager_name":  "Gala",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小芽"
+              },
+    "PGN11":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "花寿司",
+                  "acnh_villager_code":  "PGN11",
+                  "en_villager_name":  "Iggly",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "花寿司"
+              },
+    "WOL06":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "史培亚",
+                  "acnh_villager_code":  "WOL06",
+                  "en_villager_name":  "Fang",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "史培亚"
+              },
+    "OTG":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "巧美",
+                "acnh_villager_code":  "OTG",
+                "en_villager_name":  "Lottie",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "巧美"
+            },
+    "GOR04":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "壮壮",
+                  "acnh_villager_code":  "GOR04",
+                  "en_villager_name":  "Louie",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "壮壮"
+              },
+    "MUS12":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "茜蓝",
+                  "acnh_villager_code":  "MUS12",
+                  "en_villager_name":  "Broccolo",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "茜蓝"
+              },
+    "MKA":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "无脸猫",
+                "acnh_villager_code":  "MKA",
+                "en_villager_name":  "Blanca",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "无脸猫"
+            },
+    "BRD03":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "叽叽",
+                  "acnh_villager_code":  "BRD03",
+                  "en_villager_name":  "Twiggy",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "叽叽"
+              },
+    "SQU21":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "穗星",
+                  "acnh_villager_code":  "SQU21",
+                  "en_villager_name":  "Ione",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "穗星"
+              },
+    "HGC":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "绵儿",
+                "acnh_villager_code":  "HGC",
+                "en_villager_name":  "Label",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "绵儿"
+            },
+    "DOG03":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "罗宾",
+                  "acnh_villager_code":  "DOG03",
+                  "en_villager_name":  "Biskit",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "罗宾"
+              },
+    "SQU14":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "孟珮",
+                  "acnh_villager_code":  "SQU14",
+                  "en_villager_name":  "Sylvana",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "孟珮"
+              },
+    "PGN05":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "宝拉",
+                  "acnh_villager_code":  "PGN05",
+                  "en_villager_name":  "Gwen",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "宝拉"
+              },
+    "WOL12":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "莫妮卡",
+                  "acnh_villager_code":  "WOL12",
+                  "en_villager_name":  "Audie",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "莫妮卡"
+              },
+    "DUK07":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "小鲔",
+                  "acnh_villager_code":  "DUK07",
+                  "en_villager_name":  "Freckles",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "小鲔"
+              },
+    "CBR13":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "阿妹",
+                  "acnh_villager_code":  "CBR13",
+                  "en_villager_name":  "June",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "阿妹"
+              },
+    "ELP10":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "茉莉",
+                  "acnh_villager_code":  "ELP10",
+                  "en_villager_name":  "Tia",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "茉莉"
+              },
+    "RCO":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "狸克",
+                "acnh_villager_code":  "RCO",
+                "en_villager_name":  "Tom Nook",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "狸克"
+            },
+    "RBT16":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "巧蔻",
+                  "acnh_villager_code":  "RBT16",
+                  "en_villager_name":  "Carmen",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "巧蔻"
+              },
+    "WOL00":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "施傅",
+                  "acnh_villager_code":  "WOL00",
+                  "en_villager_name":  "Chief",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "施傅"
+              },
+    "BOA":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "曹谷",
+                "acnh_villager_code":  "BOA",
+                "en_villager_name":  "Joan",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "曹谷"
+            },
+    "WOL03":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "毕安卡",
+                  "acnh_villager_code":  "WOL03",
+                  "en_villager_name":  "Whitney",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "毕安卡"
+              },
+    "SHP07":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "梅丽诺",
+                  "acnh_villager_code":  "SHP07",
+                  "en_villager_name":  "Willow",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "梅丽诺"
+              },
+    "SQU00":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "小桃",
+                  "acnh_villager_code":  "SQU00",
+                  "en_villager_name":  "Peanut",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "小桃"
+              },
+    "WOL08":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "范妮沙",
+                  "acnh_villager_code":  "WOL08",
+                  "en_villager_name":  "Vivian",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "范妮沙"
+              },
+    "CHN05":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "陶米咕",
+                  "acnh_villager_code":  "CHN05",
+                  "en_villager_name":  "Ava",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "陶米咕"
+              },
+    "SHP02":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "毛海儿",
+                  "acnh_villager_code":  "SHP02",
+                  "en_villager_name":  "Eunice",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "毛海儿"
+              },
+    "MUS18":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "起司",
+                  "acnh_villager_code":  "MUS18",
+                  "en_villager_name":  "Chadder",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "起司"
+              },
+    "HAM05":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "子墨",
+                  "acnh_villager_code":  "HAM05",
+                  "en_villager_name":  "Clay",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "子墨"
+              },
+    "FLG06":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "剪刀",
+                  "acnh_villager_code":  "FLG06",
+                  "en_villager_name":  "Puddles",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "剪刀"
+              },
+    "GSTA":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "幽幽",
+                 "acnh_villager_code":  "GSTA",
+                 "en_villager_name":  "Wisp",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "幽幽"
+             },
+    "GOR11":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "莉拉",
+                  "acnh_villager_code":  "GOR11",
+                  "en_villager_name":  "Rilla",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "莉拉"
+              },
+    "MUS09":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "悄俊",
+                  "acnh_villager_code":  "MUS09",
+                  "en_villager_name":  "Rizzo",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "悄俊"
+              },
+    "HGS":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "麻儿",
+                "acnh_villager_code":  "HGS",
+                "en_villager_name":  "Sable",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "麻儿"
+            },
+    "OST05":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "朱莉亚",
+                  "acnh_villager_code":  "OST05",
+                  "en_villager_name":  "Julia",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "朱莉亚"
+              },
+    "TTLB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "橡伯",
+                 "acnh_villager_code":  "TTLB",
+                 "en_villager_name":  "Cornimer",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "橡伯"
+             },
+    "BEA03":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "朝阳",
+                  "acnh_villager_code":  "BEA03",
+                  "en_villager_name":  "Chow",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "朝阳"
+              },
+    "TTLA":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "寿伯",
+                 "acnh_villager_code":  "TTLA",
+                 "en_villager_name":  "Tortimer",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "寿伯"
+             },
+    "FLG15":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "嘉俊",
+                  "acnh_villager_code":  "FLG15",
+                  "en_villager_name":  "Raddle",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "嘉俊"
+              },
+    "COW06":  {
+                  "species":  "Cow",
+                  "zht_villager_name":  "晨曦",
+                  "acnh_villager_code":  "COW06",
+                  "en_villager_name":  "Norma",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "晨曦"
+              },
+    "MNK04":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "皮猴",
+                  "acnh_villager_code":  "MNK04",
+                  "en_villager_name":  "Monty",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "皮猴"
+              },
+    "HAM07":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "小仓",
+                  "acnh_villager_code":  "HAM07",
+                  "en_villager_name":  "Hamphrey",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "小仓"
+              },
+    "ANT02":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "佩希",
+                  "acnh_villager_code":  "ANT02",
+                  "en_villager_name":  "Pango",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "佩希"
+              },
+    "GSTB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "幽幽",
+                 "acnh_villager_code":  "GSTB",
+                 "en_villager_name":  "Wisp",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "幽幽"
+             },
+    "SHP09":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "雪花",
+                  "acnh_villager_code":  "SHP09",
+                  "en_villager_name":  "Wendy",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "雪花"
+              },
+    "PBR05":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "安谷斯",
+                  "acnh_villager_code":  "PBR05",
+                  "en_villager_name":  "Avery",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "安谷斯"
+              },
+    "WOL04":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "阿研",
+                  "acnh_villager_code":  "WOL04",
+                  "en_villager_name":  "Dobie",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "阿研"
+              },
+    "WOL02":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "罗博",
+                  "acnh_villager_code":  "WOL02",
+                  "en_villager_name":  "Wolfgang",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "罗博"
+              },
+    "LON02":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "晴天",
+                  "acnh_villager_code":  "LON02",
+                  "en_villager_name":  "Rex",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "晴天"
+              },
+    "GOA07":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "文青",
+                  "acnh_villager_code":  "GOA07",
+                  "en_villager_name":  "Kidd",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "文青"
+              },
+    "ELP02":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "阿三",
+                  "acnh_villager_code":  "ELP02",
+                  "en_villager_name":  "Big Top",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿三"
+              },
+    "OCP02":  {
+                  "species":  "Octopus",
+                  "zht_villager_name":  "章丸丸",
+                  "acnh_villager_code":  "OCP02",
+                  "en_villager_name":  "Zucker",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "章丸丸"
+              },
+    "MUS19":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "理佳",
+                  "acnh_villager_code":  "MUS19",
+                  "en_villager_name":  "Petri",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "理佳"
+              },
+    "CBR14":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "佳敏",
+                  "acnh_villager_code":  "CBR14",
+                  "en_villager_name":  "Pekoe",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "佳敏"
+              },
+    "BEA12":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "恰咪",
+                  "acnh_villager_code":  "BEA12",
+                  "en_villager_name":  "Charlise",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "恰咪"
+              },
+    "SQU10":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "嘉治",
+                  "acnh_villager_code":  "SQU10",
+                  "en_villager_name":  "Ricky",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "嘉治"
+              },
+    "KGR06":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "希薇亚",
+                  "acnh_villager_code":  "KGR06",
+                  "en_villager_name":  "Sylvia",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "希薇亚"
+              },
+    "SQU13":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "娜塔丽",
+                  "acnh_villager_code":  "SQU13",
+                  "en_villager_name":  "Tasha",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "娜塔丽"
+              },
+    "RBT06":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "罗塔",
+                  "acnh_villager_code":  "RBT06",
+                  "en_villager_name":  "Pippy",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "罗塔"
+              },
+    "CRD07":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "爱莉",
+                  "acnh_villager_code":  "CRD07",
+                  "en_villager_name":  "Gayle",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "爱莉"
+              },
+    "KPS":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "沽沽",
+                "acnh_villager_code":  "KPS",
+                "en_villager_name":  "Leila",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "沽沽"
+            },
+    "DER01":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "小健",
+                  "acnh_villager_code":  "DER01",
+                  "en_villager_name":  "Bam",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "小健"
+              },
+    "DUK06":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "苏米",
+                  "acnh_villager_code":  "DUK06",
+                  "en_villager_name":  "Mallary",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "苏米"
+              },
+    "FLG16":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "林妲",
+                  "acnh_villager_code":  "FLG16",
+                  "en_villager_name":  "Gigi",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "林妲"
+              },
+    "SHP04":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "爱睦",
+                  "acnh_villager_code":  "SHP04",
+                  "en_villager_name":  "Cashmere",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "爱睦"
+              },
+    "MNK05":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "孟琪",
+                  "acnh_villager_code":  "MNK05",
+                  "en_villager_name":  "Elise",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "孟琪"
+              },
+    "LON08":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "赖恩睿",
+                  "acnh_villager_code":  "LON08",
+                  "en_villager_name":  "Lionel",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "赖恩睿"
+              },
+    "ANT05":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "米粉",
+                  "acnh_villager_code":  "ANT05",
+                  "en_villager_name":  "Zoe",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "米粉"
+              },
+    "CAT08":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "仁平",
+                  "acnh_villager_code":  "CAT08",
+                  "en_villager_name":  "Moe",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "仁平"
+              },
+    "FLG00":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "雷妮",
+                  "acnh_villager_code":  "FLG00",
+                  "en_villager_name":  "Lily",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "雷妮"
+              },
+    "GOA01":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "墨墨",
+                  "acnh_villager_code":  "GOA01",
+                  "en_villager_name":  "Nan",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "墨墨"
+              },
+    "PKN":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "南瓜王",
+                "acnh_villager_code":  "PKN",
+                "en_villager_name":  "Jack",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "南瓜王"
+            },
+    "RHN00":  {
+                  "species":  "Rhino",
+                  "zht_villager_name":  "阿足",
+                  "acnh_villager_code":  "RHN00",
+                  "en_villager_name":  "Tank",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿足"
+              },
+    "DOG18":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "包伯",
+                  "acnh_villager_code":  "DOG18",
+                  "en_villager_name":  "Shep",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "包伯"
+              },
+    "ELP03":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "艾勒芬",
+                  "acnh_villager_code":  "ELP03",
+                  "en_villager_name":  "Eloise",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "艾勒芬"
+              },
+    "PCK":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "阿欢",
+                "acnh_villager_code":  "PCK",
+                "en_villager_name":  "Pavé",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "阿欢"
+            },
+    "CMLB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "骆岚",
+                 "acnh_villager_code":  "CMLB",
+                 "en_villager_name":  "Saharah",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "骆岚"
+             },
+    "OST01":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "仙仙",
+                  "acnh_villager_code":  "OST01",
+                  "en_villager_name":  "Gladys",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "仙仙"
+              },
+    "CBR01":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "小枫",
+                  "acnh_villager_code":  "CBR01",
+                  "en_villager_name":  "Maple",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小枫"
+              },
+    "BEA07":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "恋恋",
+                  "acnh_villager_code":  "BEA07",
+                  "en_villager_name":  "Tutu",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "恋恋"
+              },
+    "SQU02":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "瑞奇",
+                  "acnh_villager_code":  "SQU02",
+                  "en_villager_name":  "Filbert",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "瑞奇"
+              },
+    "FLG11":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "吸管",
+                  "acnh_villager_code":  "FLG11",
+                  "en_villager_name":  "Huck",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "吸管"
+              },
+    "CRD01":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "鳄罗思",
+                  "acnh_villager_code":  "CRD01",
+                  "en_villager_name":  "Alli",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "鳄罗思"
+              },
+    "DUK08":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "阿坊",
+                  "acnh_villager_code":  "DUK08",
+                  "en_villager_name":  "Derwin",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿坊"
+              },
+    "CBR00":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "娃娃",
+                  "acnh_villager_code":  "CBR00",
+                  "en_villager_name":  "Bluebear",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "娃娃"
+              },
+    "DER06":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "洁西卡",
+                  "acnh_villager_code":  "DER06",
+                  "en_villager_name":  "Fuchsia",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "洁西卡"
+              },
+    "HRS16":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "雷哈娜",
+                  "acnh_villager_code":  "HRS16",
+                  "en_villager_name":  "Reneigh",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "雷哈娜"
+              },
+    "FLG03":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "迷仔",
+                  "acnh_villager_code":  "FLG03",
+                  "en_villager_name":  "Camofrog",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "迷仔"
+              },
+    "CAT20":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "茶茶",
+                  "acnh_villager_code":  "CAT20",
+                  "en_villager_name":  "Rudy",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "茶茶"
+              },
+    "SHP14":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "彩星",
+                  "acnh_villager_code":  "SHP14",
+                  "en_villager_name":  "Étoile",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "彩星"
+              },
+    "KPM":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "沽玉",
+                "acnh_villager_code":  "KPM",
+                "en_villager_name":  "Leilani",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "沽玉"
+            },
+    "HIP03":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "豆沙",
+                  "acnh_villager_code":  "HIP03",
+                  "en_villager_name":  "Bertha",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "豆沙"
+              },
+    "DOG04":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "阿富",
+                  "acnh_villager_code":  "DOG04",
+                  "en_villager_name":  "Bones",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿富"
+              },
+    "PBR02":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "谢博强",
+                  "acnh_villager_code":  "PBR02",
+                  "en_villager_name":  "Pierce",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "谢博强"
+              },
+    "BRD11":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "余板",
+                  "acnh_villager_code":  "BRD11",
+                  "en_villager_name":  "Jacob",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "余板"
+              },
+    "LON00":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "莫敬",
+                  "acnh_villager_code":  "LON00",
+                  "en_villager_name":  "Bud",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "莫敬"
+              },
+    "FLG01":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "锵锵",
+                  "acnh_villager_code":  "FLG01",
+                  "en_villager_name":  "Ribbot",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "锵锵"
+              },
+    "BEA10":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "瑞秋",
+                  "acnh_villager_code":  "BEA10",
+                  "en_villager_name":  "Paula",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "瑞秋"
+              },
+    "OWS":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "傅珂",
+                "acnh_villager_code":  "OWS",
+                "en_villager_name":  "Celeste",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "傅珂"
+            },
+    "DER00":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "音音",
+                  "acnh_villager_code":  "DER00",
+                  "en_villager_name":  "Fauna",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "音音"
+              },
+    "PBR07":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "银阁",
+                  "acnh_villager_code":  "PBR07",
+                  "en_villager_name":  "Sterling",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "银阁"
+              },
+    "CAT23":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "杰克",
+                  "acnh_villager_code":  "CAT23",
+                  "en_villager_name":  "Raymond",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "杰克"
+              },
+    "CBR07":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "宪雄",
+                  "acnh_villager_code":  "CBR07",
+                  "en_villager_name":  "Murphy",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "宪雄"
+              },
+    "RBT10":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "阿飞",
+                  "acnh_villager_code":  "RBT10",
+                  "en_villager_name":  "Doc",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿飞"
+              },
+    "SQU03":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "雷贝嘉",
+                  "acnh_villager_code":  "SQU03",
+                  "en_villager_name":  "Pecan",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "雷贝嘉"
+              },
+    "FLG12":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "青呱",
+                  "acnh_villager_code":  "FLG12",
+                  "en_villager_name":  "Prince",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "青呱"
+              },
+    "DER08":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "倪家莉",
+                  "acnh_villager_code":  "DER08",
+                  "en_villager_name":  "Diana",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "倪家莉"
+              },
+    "FLG09":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "阿田",
+                  "acnh_villager_code":  "FLG09",
+                  "en_villager_name":  "Tad",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿田"
+              },
+    "BUL00":  {
+                  "species":  "Bull",
+                  "zht_villager_name":  "施万德",
+                  "acnh_villager_code":  "BUL00",
+                  "en_villager_name":  "Angus",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "施万德"
+              },
+    "MNK01":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "七七",
+                  "acnh_villager_code":  "MNK01",
+                  "en_villager_name":  "Nana",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "七七"
+              },
+    "DER05":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "汤姆",
+                  "acnh_villager_code":  "DER05",
+                  "en_villager_name":  "Lopez",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "汤姆"
+              },
+    "RHN08":  {
+                  "species":  "Rhino",
+                  "zht_villager_name":  "柴姐",
+                  "acnh_villager_code":  "RHN08",
+                  "en_villager_name":  "Renée",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "柴姐"
+              },
+    "ALP":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "健兆",
+                "acnh_villager_code":  "ALP",
+                "en_villager_name":  "Cyrus",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "健兆"
+            },
+    "BRD05":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "丽婷",
+                  "acnh_villager_code":  "BRD05",
+                  "en_villager_name":  "Piper",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "丽婷"
+              },
+    "HIP05":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "艾咪",
+                  "acnh_villager_code":  "HIP05",
+                  "en_villager_name":  "Bitty",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "艾咪"
+              },
+    "ELP04":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "莎莉",
+                  "acnh_villager_code":  "ELP04",
+                  "en_villager_name":  "Margie",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "莎莉"
+              },
+    "GRF":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "葛瑞斯",
+                "acnh_villager_code":  "GRF",
+                "en_villager_name":  "Gracie",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "葛瑞斯"
+            },
+    "PBR09":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "蒂芬妮",
+                  "acnh_villager_code":  "PBR09",
+                  "en_villager_name":  "Celia",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "蒂芬妮"
+              },
+    "PIG09":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "达利",
+                  "acnh_villager_code":  "PIG09",
+                  "en_villager_name":  "Boris",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "达利"
+              },
+    "PIG01":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "嘟嘟",
+                  "acnh_villager_code":  "PIG01",
+                  "en_villager_name":  "Truffles",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "嘟嘟"
+              },
+    "ANT00":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "阳明",
+                  "acnh_villager_code":  "ANT00",
+                  "en_villager_name":  "Cyrano",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "阳明"
+              },
+    "HRS08":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "小薰",
+                  "acnh_villager_code":  "HRS08",
+                  "en_villager_name":  "Peaches",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小薰"
+              },
+    "SQU09":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "小敏",
+                  "acnh_villager_code":  "SQU09",
+                  "en_villager_name":  "Mint",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "小敏"
+              },
+    "DER02":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "森森",
+                  "acnh_villager_code":  "DER02",
+                  "en_villager_name":  "Zell",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "森森"
+              },
+    "CRD00":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "阿泥",
+                  "acnh_villager_code":  "CRD00",
+                  "en_villager_name":  "Alfonso",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿泥"
+              },
+    "RHN07":  {
+                  "species":  "Rhino",
+                  "zht_villager_name":  "草莓",
+                  "acnh_villager_code":  "RHN07",
+                  "en_villager_name":  "Merengue",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "草莓"
+              },
+    "SHP10":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "阿司",
+                  "acnh_villager_code":  "SHP10",
+                  "en_villager_name":  "Timbra",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "阿司"
+              },
+    "CHN12":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "凯西",
+                  "acnh_villager_code":  "CHN12",
+                  "en_villager_name":  "Broffina",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "凯西"
+              },
+    "ANT03":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "有美",
+                  "acnh_villager_code":  "ANT03",
+                  "en_villager_name":  "Anabelle",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "有美"
+              },
+    "KAL00":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "尤嘉莉",
+                  "acnh_villager_code":  "KAL00",
+                  "en_villager_name":  "Yuka",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "尤嘉莉"
+              },
+    "HRS12":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "小冈",
+                  "acnh_villager_code":  "HRS12",
+                  "en_villager_name":  "Papi",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "小冈"
+              },
+    "PGN10":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "秀益",
+                  "acnh_villager_code":  "PGN10",
+                  "en_villager_name":  "Boomer",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "秀益"
+              },
+    "SEO":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "阿獭",
+                "acnh_villager_code":  "SEO",
+                "en_villager_name":  "Pascal",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "阿獭"
+            },
+    "WRL":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "海项",
+                "acnh_villager_code":  "WRL",
+                "en_villager_name":  "Wendell",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "海项"
+            },
+    "HAM09":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "胖督",
+                  "acnh_villager_code":  "HAM09",
+                  "en_villager_name":  "Marlo",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "胖督"
+              },
+    "BRD04":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "纪诺",
+                  "acnh_villager_code":  "BRD04",
+                  "en_villager_name":  "Jitters",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "纪诺"
+              },
+    "HIP04":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "贾宝为",
+                  "acnh_villager_code":  "HIP04",
+                  "en_villager_name":  "Biff",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "贾宝为"
+              },
+    "ELP05":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "保罗",
+                  "acnh_villager_code":  "ELP05",
+                  "en_villager_name":  "Paolo",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "保罗"
+              },
+    "CAT14":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "朱古莉",
+                  "acnh_villager_code":  "CAT14",
+                  "en_villager_name":  "Kitty",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "朱古莉"
+              },
+    "PIG08":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "博士",
+                  "acnh_villager_code":  "PIG08",
+                  "en_villager_name":  "Cobb",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "博士"
+              },
+    "PGN04":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "谢宾娜",
+                  "acnh_villager_code":  "PGN04",
+                  "en_villager_name":  "Friga",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "谢宾娜"
+              },
+    "CHN11":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "金阁",
+                  "acnh_villager_code":  "CHN11",
+                  "en_villager_name":  "Knox",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "金阁"
+              },
+    "DUK00":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "皮蛋",
+                  "acnh_villager_code":  "DUK00",
+                  "en_villager_name":  "Bill",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "皮蛋"
+              },
+    "HRS09":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "舒芙蕾",
+                  "acnh_villager_code":  "HRS09",
+                  "en_villager_name":  "Annalise",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "舒芙蕾"
+              },
+    "BUL07":  {
+                  "species":  "Bull",
+                  "zht_villager_name":  "大常",
+                  "acnh_villager_code":  "BUL07",
+                  "en_villager_name":  "Coach",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "大常"
+              },
+    "BEA00":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "太平",
+                  "acnh_villager_code":  "BEA00",
+                  "en_villager_name":  "Teddy",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "太平"
+              },
+    "CAT15":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "阿邦",
+                  "acnh_villager_code":  "CAT15",
+                  "en_villager_name":  "Tom",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "阿邦"
+              },
+    "LOM":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "咪露",
+                "acnh_villager_code":  "LOM",
+                "en_villager_name":  "Katie",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "咪露"
+            },
+    "CHY":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "龙克斯",
+                "acnh_villager_code":  "CHY",
+                "en_villager_name":  "Flick",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "龙克斯"
+            },
+    "GOR02":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "万泰",
+                  "acnh_villager_code":  "GOR02",
+                  "en_villager_name":  "Boone",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "万泰"
+              },
+    "CHN09":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "咏旋",
+                  "acnh_villager_code":  "CHN09",
+                  "en_villager_name":  "Becky",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "咏旋"
+              },
+    "MNK09":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "天圣",
+                  "acnh_villager_code":  "MNK09",
+                  "en_villager_name":  "Tiansheng",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "天圣"
+              },
+    "GOA09":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "雷姆",
+                  "acnh_villager_code":  "GOA09",
+                  "en_villager_name":  "Sherb",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "雷姆"
+              },
+    "MNK":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "车长叔叔",
+                "acnh_villager_code":  "MNK",
+                "en_villager_name":  "Porter",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "车长叔叔"
+            },
+    "DOG09":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "麻蓉",
+                  "acnh_villager_code":  "DOG09",
+                  "en_villager_name":  "Maddie",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "麻蓉"
+              },
+    "XCT":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "陌陌",
+                "acnh_villager_code":  "XCT",
+                "en_villager_name":  "Rover",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "陌陌"
+            },
+    "TIG00":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "朱穆朗",
+                  "acnh_villager_code":  "TIG00",
+                  "en_villager_name":  "Rolf",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "朱穆朗"
+              },
+    "OST09":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "胡拉拉",
+                  "acnh_villager_code":  "OST09",
+                  "en_villager_name":  "Flora",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "胡拉拉"
+              },
+    "MUS08":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "甘油",
+                  "acnh_villager_code":  "MUS08",
+                  "en_villager_name":  "Candi",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "甘油"
+              },
+    "ELP12":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "庞克斯",
+                  "acnh_villager_code":  "ELP12",
+                  "en_villager_name":  "Cyd",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "庞克斯"
+              },
+    "DOG08":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "珮琳",
+                  "acnh_villager_code":  "DOG08",
+                  "en_villager_name":  "Cookie",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "珮琳"
+              },
+    "SQU11":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "小芹",
+                  "acnh_villager_code":  "SQU11",
+                  "en_villager_name":  "Cally",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小芹"
+              },
+    "RBT08":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "儒林",
+                  "acnh_villager_code":  "RBT08",
+                  "en_villager_name":  "Genji",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "儒林"
+              },
+    "MUS17":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "小啾",
+                  "acnh_villager_code":  "MUS17",
+                  "en_villager_name":  "Penelope",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "小啾"
+              },
+    "CHN10":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "帕塔雅",
+                  "acnh_villager_code":  "CHN10",
+                  "en_villager_name":  "Plucky",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "帕塔雅"
+              },
+    "BEA02":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "铁熊",
+                  "acnh_villager_code":  "BEA02",
+                  "en_villager_name":  "Curt",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "铁熊"
+              },
+    "HAM03":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "米米",
+                  "acnh_villager_code":  "HAM03",
+                  "en_villager_name":  "Rodney",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "米米"
+              },
+    "BUL05":  {
+                  "species":  "Bull",
+                  "zht_villager_name":  "罗宋",
+                  "acnh_villager_code":  "BUL05",
+                  "en_villager_name":  "T-Bone",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "罗宋"
+              },
+    "MOB":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "开关叔叔",
+                "acnh_villager_code":  "MOB",
+                "en_villager_name":  "Don",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "开关叔叔"
+            },
+    "HRS11":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "安索尼",
+                  "acnh_villager_code":  "HRS11",
+                  "en_villager_name":  "Colton",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "安索尼"
+              },
+    "SHP08":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "贾洛斯",
+                  "acnh_villager_code":  "SHP08",
+                  "en_villager_name":  "Curlos",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "贾洛斯"
+              },
+    "TIG03":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "卢姿",
+                  "acnh_villager_code":  "TIG03",
+                  "en_villager_name":  "Bangle",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "卢姿"
+              },
+    "RBT17":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "妙妙",
+                  "acnh_villager_code":  "RBT17",
+                  "en_villager_name":  "Bonbon",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "妙妙"
+              },
+    "DUK15":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "素返真",
+                  "acnh_villager_code":  "DUK15",
+                  "en_villager_name":  "Gloria",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "素返真"
+              },
+    "MUS03":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "西瓜皮",
+                  "acnh_villager_code":  "MUS03",
+                  "en_villager_name":  "Bree",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "西瓜皮"
+              },
+    "CAT07":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "小玉",
+                  "acnh_villager_code":  "CAT07",
+                  "en_villager_name":  "Purrl",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "小玉"
+              },
+    "HRS05":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "马星星",
+                  "acnh_villager_code":  "HRS05",
+                  "en_villager_name":  "Winnie",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "马星星"
+              },
+    "ELP01":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "巨巨",
+                  "acnh_villager_code":  "ELP01",
+                  "en_villager_name":  "Dizzy",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "巨巨"
+              },
+    "DOG15":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "文字烧",
+                  "acnh_villager_code":  "DOG15",
+                  "en_villager_name":  "Marcel",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "文字烧"
+              },
+    "HRS00":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "威亚",
+                  "acnh_villager_code":  "HRS00",
+                  "en_villager_name":  "Buck",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "威亚"
+              },
+    "PLM":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "宋信美",
+                "acnh_villager_code":  "PLM",
+                "en_villager_name":  "Phyllis",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "宋信美"
+            },
+    "DOG02":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "大吉",
+                  "acnh_villager_code":  "DOG02",
+                  "en_villager_name":  "Lucky",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "大吉"
+              },
+    "RBT02":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "仰韶",
+                  "acnh_villager_code":  "RBT02",
+                  "en_villager_name":  "Coco",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "仰韶"
+              },
+    "OST08":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "小偲",
+                  "acnh_villager_code":  "OST08",
+                  "en_villager_name":  "Blanche",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "小偲"
+              },
+    "SLO":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "然然",
+                "acnh_villager_code":  "SLO",
+                "en_villager_name":  "Leif",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "然然"
+            },
+    "RBT09":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "月兔",
+                  "acnh_villager_code":  "RBT09",
+                  "en_villager_name":  "Ruby",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "月兔"
+              },
+    "CRD06":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "海德",
+                  "acnh_villager_code":  "CRD06",
+                  "en_villager_name":  "Sly",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "海德"
+              },
+    "HGH":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "绢儿",
+                "acnh_villager_code":  "HGH",
+                "en_villager_name":  "Mabel",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "绢儿"
+            },
+    "BRD20":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "丘栗",
+                  "acnh_villager_code":  "BRD20",
+                  "en_villager_name":  "Tulin",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "丘栗"
+              },
+    "KGR05":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "童儿",
+                  "acnh_villager_code":  "KGR05",
+                  "en_villager_name":  "Astrid",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "童儿"
+              },
+    "KAL08":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "简培菈",
+                  "acnh_villager_code":  "KAL08",
+                  "en_villager_name":  "Canberra",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "简培菈"
+              },
+    "DUK10":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "阿守",
+                  "acnh_villager_code":  "DUK10",
+                  "en_villager_name":  "Scoot",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿守"
+              },
+    "DUK04":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "球藻",
+                  "acnh_villager_code":  "DUK04",
+                  "en_villager_name":  "Deena",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "球藻"
+              },
+    "CAT09":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "戈伍纪",
+                  "acnh_villager_code":  "CAT09",
+                  "en_villager_name":  "Kabuki",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "戈伍纪"
+              },
+    "ALW":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "莉咏",
+                "acnh_villager_code":  "ALW",
+                "en_villager_name":  "Reese",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "莉咏"
+            },
+    "CHN00":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "肯肯",
+                  "acnh_villager_code":  "CHN00",
+                  "en_villager_name":  "Goose",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "肯肯"
+              },
+    "CAT12":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "小虎",
+                  "acnh_villager_code":  "CAT12",
+                  "en_villager_name":  "Tabby",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "小虎"
+              },
+    "CBR15":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "胖达",
+                  "acnh_villager_code":  "CBR15",
+                  "en_villager_name":  "Chester",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "胖达"
+              },
+    "PGEB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "老板",
+                 "acnh_villager_code":  "PGEB",
+                 "en_villager_name":  "Brewster",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "老板"
+             },
+    "BEA06":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "爪爪",
+                  "acnh_villager_code":  "BEA06",
+                  "en_villager_name":  "Groucho",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "爪爪"
+              },
+    "RBT03":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "百川",
+                  "acnh_villager_code":  "RBT03",
+                  "en_villager_name":  "Snake",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "百川"
+              },
+    "OST00":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "果果",
+                  "acnh_villager_code":  "OST00",
+                  "en_villager_name":  "Queenie",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "果果"
+              },
+    "GULB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "海盗",
+                 "acnh_villager_code":  "GULB",
+                 "en_villager_name":  "Gullivarrr",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "海盗"
+             },
+    "SQU15":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "软糖",
+                  "acnh_villager_code":  "SQU15",
+                  "en_villager_name":  "Poppy",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "软糖"
+              },
+    "MNC":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "尼可",
+                "acnh_villager_code":  "MNC",
+                "en_villager_name":  "Niko",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "尼可"
+            },
+    "DER07":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "彼得",
+                  "acnh_villager_code":  "DER07",
+                  "en_villager_name":  "Beau",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "彼得"
+              },
+    "DUK11":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "卿德",
+                  "acnh_villager_code":  "DUK11",
+                  "en_villager_name":  "Weber",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "卿德"
+              },
+    "DUK12":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "米兰达",
+                  "acnh_villager_code":  "DUK12",
+                  "en_villager_name":  "Miranda",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "米兰达"
+              },
+    "GOR09":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "阿四",
+                  "acnh_villager_code":  "GOR09",
+                  "en_villager_name":  "Rocket",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "阿四"
+              },
+    "ELP07":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "泡芙",
+                  "acnh_villager_code":  "ELP07",
+                  "en_villager_name":  "Ellie",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "泡芙"
+              },
+    "PGN02":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "罗斯",
+                  "acnh_villager_code":  "PGN02",
+                  "en_villager_name":  "Cube",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "罗斯"
+              },
+    "PBR03":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "继光",
+                  "acnh_villager_code":  "PBR03",
+                  "en_villager_name":  "Buzz",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "继光"
+              },
+    "PIG00":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "胜利",
+                  "acnh_villager_code":  "PIG00",
+                  "en_villager_name":  "Curly",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "胜利"
+              },
+    "FLG10":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "春卷",
+                  "acnh_villager_code":  "FLG10",
+                  "en_villager_name":  "Cousteau",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "春卷"
+              },
+    "POO":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "刀丽茹",
+                "acnh_villager_code":  "POO",
+                "en_villager_name":  "Harriet",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "刀丽茹"
+            },
+    "PLK":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "宋信子",
+                "acnh_villager_code":  "PLK",
+                "en_villager_name":  "Pelly",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "宋信子"
+            },
+    "PIG14":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "豚皇",
+                  "acnh_villager_code":  "PIG14",
+                  "en_villager_name":  "Chops",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "豚皇"
+              },
+    "CAT11":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "珍珍",
+                  "acnh_villager_code":  "CAT11",
+                  "en_villager_name":  "Monique",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "珍珍"
+              },
+    "OWL":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "傅达",
+                "acnh_villager_code":  "OWL",
+                "en_villager_name":  "Blathers",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "傅达"
+            },
+    "PGN03":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "达满",
+                  "acnh_villager_code":  "PGN03",
+                  "en_villager_name":  "Hopper",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "达满"
+              },
+    "RBT12":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "法蓝琪",
+                  "acnh_villager_code":  "RBT12",
+                  "en_villager_name":  "Francine",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "法蓝琪"
+              },
+    "SQU07":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "拉拉米",
+                  "acnh_villager_code":  "SQU07",
+                  "en_villager_name":  "Sally",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "拉拉米"
+              },
+    "PIG11":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "千惠",
+                  "acnh_villager_code":  "PIG11",
+                  "en_villager_name":  "Peggy",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "千惠"
+              },
+    "DER09":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "查克",
+                  "acnh_villager_code":  "DER09",
+                  "en_villager_name":  "Erik",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "查克"
+              },
+    "SHP00":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "绵绵",
+                  "acnh_villager_code":  "SHP00",
+                  "en_villager_name":  "Vesta",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "绵绵"
+              },
+    "CAT00":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "阿判",
+                  "acnh_villager_code":  "CAT00",
+                  "en_villager_name":  "Bob",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿判"
+              },
+    "SHP11":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "温蒂",
+                  "acnh_villager_code":  "SHP11",
+                  "en_villager_name":  "Frita",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "温蒂"
+              },
+    "KAL10":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "罗奇",
+                  "acnh_villager_code":  "KAL10",
+                  "en_villager_name":  "Eugene",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "罗奇"
+              },
+    "FSL":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "博陆恩",
+                "acnh_villager_code":  "FSL",
+                "en_villager_name":  "Phineas",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "博陆恩"
+            },
+    "DUK13":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "番茄酱",
+                  "acnh_villager_code":  "DUK13",
+                  "en_villager_name":  "Ketchup",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "番茄酱"
+              },
+    "BRD06":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "李彻",
+                  "acnh_villager_code":  "BRD06",
+                  "en_villager_name":  "Admiral",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "李彻"
+              },
+    "DOG10":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "贝果",
+                  "acnh_villager_code":  "DOG10",
+                  "en_villager_name":  "Bea",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "贝果"
+              },
+    "BEA14":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "熊战士",
+                  "acnh_villager_code":  "BEA14",
+                  "en_villager_name":  "Klaus",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "熊战士"
+              },
+    "CAT16":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "莎莎",
+                  "acnh_villager_code":  "CAT16",
+                  "en_villager_name":  "Merry",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "莎莎"
+              },
+    "SQU19":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "霓莎",
+                  "acnh_villager_code":  "SQU19",
+                  "en_villager_name":  "Cece",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "霓莎"
+              },
+    "PGN06":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "哈奇",
+                  "acnh_villager_code":  "PGN06",
+                  "en_villager_name":  "Puck",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "哈奇"
+              },
+    "MUS16":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "如意",
+                  "acnh_villager_code":  "MUS16",
+                  "en_villager_name":  "Greta",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "如意"
+              },
+    "SQU08":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "闪电",
+                  "acnh_villager_code":  "SQU08",
+                  "en_villager_name":  "Static",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "闪电"
+              },
+    "CBR09":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "毕克萝",
+                  "acnh_villager_code":  "CBR09",
+                  "en_villager_name":  "Olive",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "毕克萝"
+              },
+    "RBT14":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "风杰",
+                  "acnh_villager_code":  "RBT14",
+                  "en_villager_name":  "Hopkins",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "风杰"
+              },
+    "HRS07":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "小铀",
+                  "acnh_villager_code":  "HRS07",
+                  "en_villager_name":  "Cleo",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "小铀"
+              },
+    "RBT13":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "克莉琪",
+                  "acnh_villager_code":  "RBT13",
+                  "en_villager_name":  "Chrissy",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "克莉琪"
+              },
+    "DER03":  {
+                  "species":  "Deer",
+                  "zht_villager_name":  "布鹿斯",
+                  "acnh_villager_code":  "DER03",
+                  "en_villager_name":  "Bruce",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "布鹿斯"
+              },
+    "GOA02":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "亚星",
+                  "acnh_villager_code":  "GOA02",
+                  "en_villager_name":  "Billy",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "亚星"
+              },
+    "RHN05":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "碧芊",
+                  "acnh_villager_code":  "RHN05",
+                  "en_villager_name":  "Azalea",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "碧芊"
+              },
+    "GOA00":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "雪儿",
+                  "acnh_villager_code":  "GOA00",
+                  "en_villager_name":  "Chevre",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "雪儿"
+              },
+    "PGN13":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "蕾拉",
+                  "acnh_villager_code":  "PGN13",
+                  "en_villager_name":  "Flo",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "蕾拉"
+              },
+    "MUS15":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "丸子",
+                  "acnh_villager_code":  "MUS15",
+                  "en_villager_name":  "Bettina",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "丸子"
+              },
+    "HIP08":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "欧世豪",
+                  "acnh_villager_code":  "HIP08",
+                  "en_villager_name":  "Harry",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "欧世豪"
+              },
+    "PGE":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "老板",
+                "acnh_villager_code":  "PGE",
+                "en_villager_name":  "Brewster",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "老板"
+            },
+    "RBT18":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "阿甘",
+                  "acnh_villager_code":  "RBT18",
+                  "en_villager_name":  "Cole",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿甘"
+              },
+    "KGR01":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "亚莎",
+                  "acnh_villager_code":  "KGR01",
+                  "en_villager_name":  "Mathilda",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "亚莎"
+              },
+    "DOG06":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "阿笨",
+                  "acnh_villager_code":  "DOG06",
+                  "en_villager_name":  "Walker",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿笨"
+              },
+    "PIG04":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "露西",
+                  "acnh_villager_code":  "PIG04",
+                  "en_villager_name":  "Lucy",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "露西"
+              },
+    "CHN13":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "乌骨鸡",
+                  "acnh_villager_code":  "CHN13",
+                  "en_villager_name":  "Ken",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "乌骨鸡"
+              },
+    "DGA":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "警察叔叔",
+                "acnh_villager_code":  "DGA",
+                "en_villager_name":  "Copper",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "警察叔叔"
+            },
+    "KPG":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "阿玉婆婆",
+                "acnh_villager_code":  "KPG",
+                "en_villager_name":  "Grams",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "阿玉婆婆"
+            },
+    "BEA15":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "糖果",
+                  "acnh_villager_code":  "BEA15",
+                  "en_villager_name":  "Megan",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "糖果"
+              },
+    "KPP":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "航平",
+                "acnh_villager_code":  "KPP",
+                "en_villager_name":  "Kapp\u0027n",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "航平"
+            },
+    "BEV":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "俞正",
+                "acnh_villager_code":  "BEV",
+                "en_villager_name":  "Chip",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "俞正"
+            },
+    "PGN07":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "信雄",
+                  "acnh_villager_code":  "PGN07",
+                  "en_villager_name":  "Chabwick",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "信雄"
+              },
+    "HAM01":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "苹果",
+                  "acnh_villager_code":  "HAM01",
+                  "en_villager_name":  "Apple",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "苹果"
+              },
+    "RBT15":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "桑托斯",
+                  "acnh_villager_code":  "RBT15",
+                  "en_villager_name":  "O\u0027Hare",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "桑托斯"
+              },
+    "SZA":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "西施惠",
+                "acnh_villager_code":  "SZA",
+                "en_villager_name":  "Isabelle",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "西施惠"
+            },
+    "LON04":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "老狮",
+                  "acnh_villager_code":  "LON04",
+                  "en_villager_name":  "Leopold",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "老狮"
+              },
+    "ANT09":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "安东尼",
+                  "acnh_villager_code":  "ANT09",
+                  "en_villager_name":  "Olaf",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "安东尼"
+              },
+    "PBR08":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "法兰克",
+                  "acnh_villager_code":  "PBR08",
+                  "en_villager_name":  "Keaton",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "法兰克"
+              },
+    "UPA":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "笑匠",
+                "acnh_villager_code":  "UPA",
+                "en_villager_name":  "Shrunk",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "笑匠"
+            },
+    "DUK17":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "何童",
+                  "acnh_villager_code":  "DUK17",
+                  "en_villager_name":  "Quillson",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "何童"
+              },
+    "LON01":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "皇狮",
+                  "acnh_villager_code":  "LON01",
+                  "en_villager_name":  "Elvis",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "皇狮"
+              },
+    "DUK03":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "安妮",
+                  "acnh_villager_code":  "DUK03",
+                  "en_villager_name":  "Maelle",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "安妮"
+              },
+    "GOA08":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "芭芭拉",
+                  "acnh_villager_code":  "GOA08",
+                  "en_villager_name":  "Pashmina",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "芭芭拉"
+              },
+    "MAN":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "纳提",
+                "acnh_villager_code":  "MAN",
+                "en_villager_name":  "Wardell",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "纳提"
+            },
+    "TKKA":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "K.K.",
+                 "acnh_villager_code":  "TKKA",
+                 "en_villager_name":  "K.K.",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "K.K."
+             },
+    "DOG14":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "金牌",
+                  "acnh_villager_code":  "DOG14",
+                  "en_villager_name":  "Mac",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "金牌"
+              },
+    "HIP00":  {
+                  "species":  "Hippo",
+                  "zht_villager_name":  "孔在来",
+                  "acnh_villager_code":  "HIP00",
+                  "en_villager_name":  "Rocco",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "孔在来"
+              },
+    "MUS04":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "和平",
+                  "acnh_villager_code":  "MUS04",
+                  "en_villager_name":  "Samson",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "和平"
+              },
+    "SZO":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "西施德",
+                "acnh_villager_code":  "SZO",
+                "en_villager_name":  "Digby",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "西施德"
+            },
+    "OST06":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "朱禄",
+                  "acnh_villager_code":  "OST06",
+                  "en_villager_name":  "Cranston",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "朱禄"
+              },
+    "ELP11":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "啡卡",
+                  "acnh_villager_code":  "ELP11",
+                  "en_villager_name":  "Chai",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "啡卡"
+              },
+    "OCP00":  {
+                  "species":  "Octopus",
+                  "zht_villager_name":  "张瑜",
+                  "acnh_villager_code":  "OCP00",
+                  "en_villager_name":  "Octavian",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "张瑜"
+              },
+    "DOG01":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "约翰",
+                  "acnh_villager_code":  "DOG01",
+                  "en_villager_name":  "Butch",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "约翰"
+              },
+    "DOD":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "莫里",
+                "acnh_villager_code":  "DOD",
+                "en_villager_name":  "Orville",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "莫里"
+            },
+    "CRD08":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "阿龙",
+                  "acnh_villager_code":  "CRD08",
+                  "en_villager_name":  "Drago",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿龙"
+              },
+    "MNK07":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "雪莉",
+                  "acnh_villager_code":  "MNK07",
+                  "en_villager_name":  "Shari",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "雪莉"
+              },
+    "HAM02":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "麦麦",
+                  "acnh_villager_code":  "HAM02",
+                  "en_villager_name":  "Graham",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "麦麦"
+              },
+    "OTT":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "阿本先生",
+                "acnh_villager_code":  "OTT",
+                "en_villager_name":  "Lyle",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "阿本先生"
+            },
+    "SKK":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "薛革",
+                "acnh_villager_code":  "SKK",
+                "en_villager_name":  "Kicks",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "薛革"
+            },
+    "PBR06":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "浩克",
+                  "acnh_villager_code":  "PBR06",
+                  "en_villager_name":  "Frank",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "浩克"
+              },
+    "BOC":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "曹卖",
+                "acnh_villager_code":  "BOC",
+                "en_villager_name":  "Daisy Mae",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "曹卖"
+            },
+    "KAL01":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "莫儿",
+                  "acnh_villager_code":  "KAL01",
+                  "en_villager_name":  "Alice",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "莫儿"
+              },
+    "WOL10":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "李可",
+                  "acnh_villager_code":  "WOL10",
+                  "en_villager_name":  "Kyle",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "李可"
+              },
+    "PGN12":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "伏特",
+                  "acnh_villager_code":  "PGN12",
+                  "en_villager_name":  "Tex",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "伏特"
+              },
+    "LON07":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "亚瑟",
+                  "acnh_villager_code":  "LON07",
+                  "en_villager_name":  "Rory",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "亚瑟"
+              },
+    "TIG02":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "谷丰",
+                  "acnh_villager_code":  "TIG02",
+                  "en_villager_name":  "Tybalt",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "谷丰"
+              },
+    "DOG16":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "小八",
+                  "acnh_villager_code":  "DOG16",
+                  "en_villager_name":  "Benjamin",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "小八"
+              },
+    "PIG05":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "肉肉",
+                  "acnh_villager_code":  "PIG05",
+                  "en_villager_name":  "Spork",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "肉肉"
+              },
+    "LON06":  {
+                  "species":  "Lion",
+                  "zht_villager_name":  "李克",
+                  "acnh_villager_code":  "LON06",
+                  "en_villager_name":  "Mott",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "李克"
+              },
+    "MUS02":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "贝拉",
+                  "acnh_villager_code":  "MUS02",
+                  "en_villager_name":  "Bella",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "贝拉"
+              },
+    "CBR17":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "然姐",
+                  "acnh_villager_code":  "CBR17",
+                  "en_villager_name":  "Tammy",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "然姐"
+              },
+    "BEA11":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "大功",
+                  "acnh_villager_code":  "BEA11",
+                  "en_villager_name":  "Ike",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "大功"
+              },
+    "GOR00":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "阿朗",
+                  "acnh_villager_code":  "GOR00",
+                  "en_villager_name":  "Cesar",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "阿朗"
+              },
+    "KPPB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "航平",
+                 "acnh_villager_code":  "KPPB",
+                 "en_villager_name":  "Kapp\u0027n",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "航平"
+             },
+    "BEA08":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "妮雅",
+                  "acnh_villager_code":  "BEA08",
+                  "en_villager_name":  "Ursala",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "妮雅"
+              },
+    "RBT05":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "珮琪",
+                  "acnh_villager_code":  "RBT05",
+                  "en_villager_name":  "Gabi",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "珮琪"
+              },
+    "CAT06":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "尔光",
+                  "acnh_villager_code":  "CAT06",
+                  "en_villager_name":  "Punchy",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "尔光"
+              },
+    "CRD02":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "丰年",
+                  "acnh_villager_code":  "CRD02",
+                  "en_villager_name":  "Boots",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "丰年"
+              },
+    "DUK05":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "海苔裴",
+                  "acnh_villager_code":  "DUK05",
+                  "en_villager_name":  "Pompom",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "海苔裴"
+              },
+    "FLG19":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "亨利",
+                  "acnh_villager_code":  "FLG19",
+                  "en_villager_name":  "Henry",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "亨利"
+              },
+    "PIG16":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "布兰妮",
+                  "acnh_villager_code":  "PIG16",
+                  "en_villager_name":  "Pancetti",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "布兰妮"
+              },
+    "KAL04":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "钢锁",
+                  "acnh_villager_code":  "KAL04",
+                  "en_villager_name":  "Gonzo",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "钢锁"
+              },
+    "CAT02":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "彭花",
+                  "acnh_villager_code":  "CAT02",
+                  "en_villager_name":  "Rosie",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "彭花"
+              },
+    "MNK08":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "德里",
+                  "acnh_villager_code":  "MNK08",
+                  "en_villager_name":  "Deli",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "德里"
+              },
+    "GOR08":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "阿保",
+                  "acnh_villager_code":  "GOR08",
+                  "en_villager_name":  "Al",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿保"
+              },
+    "FOX":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "狐利",
+                "acnh_villager_code":  "FOX",
+                "en_villager_name":  "Redd",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "狐利"
+            },
+    "KAL09":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "敖志明",
+                  "acnh_villager_code":  "KAL09",
+                  "en_villager_name":  "Lyman",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "敖志明"
+              },
+    "RBT04":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "猛兔",
+                  "acnh_villager_code":  "RBT04",
+                  "en_villager_name":  "Gaston",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "猛兔"
+              },
+    "PBR10":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "席恩",
+                  "acnh_villager_code":  "PBR10",
+                  "en_villager_name":  "Quinn",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "席恩"
+              },
+    "PBR01":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "安地斯",
+                  "acnh_villager_code":  "PBR01",
+                  "en_villager_name":  "Amelia",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "安地斯"
+              },
+    "MNK06":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "天佑",
+                  "acnh_villager_code":  "MNK06",
+                  "en_villager_name":  "Flip",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "天佑"
+              },
+    "KGR09":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "麦克",
+                  "acnh_villager_code":  "KGR09",
+                  "en_villager_name":  "Rooney",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "麦克"
+              },
+    "DUK02":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "爱哭鬼",
+                  "acnh_villager_code":  "DUK02",
+                  "en_villager_name":  "Pate",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "爱哭鬼"
+              },
+    "PGN00":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "欧若拉",
+                  "acnh_villager_code":  "PGN00",
+                  "en_villager_name":  "Aurora",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "欧若拉"
+              },
+    "DOG17":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "花娜",
+                  "acnh_villager_code":  "DOG17",
+                  "en_villager_name":  "Cherry",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "花娜"
+              },
+    "CHN01":  {
+                  "species":  "Chicken",
+                  "zht_villager_name":  "沛希",
+                  "acnh_villager_code":  "CHN01",
+                  "en_villager_name":  "Benedict",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "沛希"
+              },
+    "CBR19":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "美玲",
+                  "acnh_villager_code":  "CBR19",
+                  "en_villager_name":  "Judy",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "美玲"
+              },
+    "GUL":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "吕游",
+                "acnh_villager_code":  "GUL",
+                "en_villager_name":  "Gulliver",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "吕游"
+            },
+    "CAT13":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "男子汗",
+                  "acnh_villager_code":  "CAT13",
+                  "en_villager_name":  "Stinky",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "男子汗"
+              },
+    "OST02":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "小岚",
+                  "acnh_villager_code":  "OST02",
+                  "en_villager_name":  "Sandy",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小岚"
+              },
+    "CBR16":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "阿西",
+                  "acnh_villager_code":  "CBR16",
+                  "en_villager_name":  "Barold",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿西"
+              },
+    "ELP09":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "阿原",
+                  "acnh_villager_code":  "ELP09",
+                  "en_villager_name":  "Tucker",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿原"
+              },
+    "SQU05":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "阿二",
+                  "acnh_villager_code":  "SQU05",
+                  "en_villager_name":  "Agent S",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "阿二"
+              },
+    "RHN02":  {
+                  "species":  "Rhino",
+                  "zht_villager_name":  "阿蹲",
+                  "acnh_villager_code":  "RHN02",
+                  "en_villager_name":  "Spike",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "阿蹲"
+              },
+    "BEA09":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "穆穆",
+                  "acnh_villager_code":  "BEA09",
+                  "en_villager_name":  "Grizzly",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "穆穆"
+              },
+    "CBR04":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "艾德豪",
+                  "acnh_villager_code":  "CBR04",
+                  "en_villager_name":  "Kody",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "艾德豪"
+              },
+    "GOA04":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "比利",
+                  "acnh_villager_code":  "GOA04",
+                  "en_villager_name":  "Gruff",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "比利"
+              },
+    "KAL02":  {
+                  "species":  "Koala",
+                  "zht_villager_name":  "阿得",
+                  "acnh_villager_code":  "KAL02",
+                  "en_villager_name":  "Melba",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "阿得"
+              },
+    "DUK16":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "亚美",
+                  "acnh_villager_code":  "DUK16",
+                  "en_villager_name":  "Molly",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "亚美"
+              },
+    "SHP13":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "皮耶罗",
+                  "acnh_villager_code":  "SHP13",
+                  "en_villager_name":  "Pietro",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "皮耶罗"
+              },
+    "POOB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "刀丽茹",
+                 "acnh_villager_code":  "POOB",
+                 "en_villager_name":  "Harriet",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "刀丽茹"
+             },
+    "KAL07":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "游琪",
+                  "acnh_villager_code":  "KAL07",
+                  "en_villager_name":  "Faith",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "游琪"
+              },
+    "CBR02":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "蓬蓬",
+                  "acnh_villager_code":  "CBR02",
+                  "en_villager_name":  "Poncho",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "蓬蓬"
+              },
+    "SQU01":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "小影",
+                  "acnh_villager_code":  "SQU01",
+                  "en_villager_name":  "Blaire",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "小影"
+              },
+    "BRD08":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "小酒窝",
+                  "acnh_villager_code":  "BRD08",
+                  "en_villager_name":  "Midge",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小酒窝"
+              },
+    "DOG00":  {
+                  "species":  "Dog",
+                  "zht_villager_name":  "牛奶糖",
+                  "acnh_villager_code":  "DOG00",
+                  "en_villager_name":  "Goldie",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "牛奶糖"
+              },
+    "BRD16":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "赵奇",
+                  "acnh_villager_code":  "BRD16",
+                  "en_villager_name":  "Jacques",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "赵奇"
+              },
+    "PYN":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "蹦蹦",
+                "acnh_villager_code":  "PYN",
+                "en_villager_name":  "Zipper",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "蹦蹦"
+            },
+    "COW00":  {
+                  "species":  "Cow",
+                  "zht_villager_name":  "阿排",
+                  "acnh_villager_code":  "COW00",
+                  "en_villager_name":  "Patty",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "阿排"
+              },
+    "SHP01":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "华尔滋",
+                  "acnh_villager_code":  "SHP01",
+                  "en_villager_name":  "Baabara",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "华尔滋"
+              },
+    "SQU17":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "小润",
+                  "acnh_villager_code":  "SQU17",
+                  "en_villager_name":  "Marshal",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "小润"
+              },
+    "PIG15":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "伊比利",
+                  "acnh_villager_code":  "PIG15",
+                  "en_villager_name":  "Kevin",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "伊比利"
+              },
+    "RCM":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "豆狸",
+                "acnh_villager_code":  "RCM",
+                "en_villager_name":  "Timmy",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "豆狸"
+            },
+    "DGB":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "警察叔叔",
+                "acnh_villager_code":  "DGB",
+                "en_villager_name":  "Booker",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "警察叔叔"
+            },
+    "CBR18":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "玛丁",
+                  "acnh_villager_code":  "CBR18",
+                  "en_villager_name":  "Marty",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "玛丁"
+              },
+    "TUK":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "富蓝",
+                "acnh_villager_code":  "TUK",
+                "en_villager_name":  "Franklin",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "富蓝"
+            },
+    "DUK01":  {
+                  "species":  "Duck",
+                  "zht_villager_name":  "李察",
+                  "acnh_villager_code":  "DUK01",
+                  "en_villager_name":  "Joey",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "李察"
+              },
+    "SQU06":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "贾萝琳",
+                  "acnh_villager_code":  "SQU06",
+                  "en_villager_name":  "Caroline",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "贾萝琳"
+              },
+    "FLG02":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "江适",
+                  "acnh_villager_code":  "FLG02",
+                  "en_villager_name":  "Frobert",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "江适"
+              },
+    "FLG04":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "毒仔",
+                  "acnh_villager_code":  "FLG04",
+                  "en_villager_name":  "Drift",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "毒仔"
+              },
+    "PBR00":  {
+                  "species":  "Eagle",
+                  "zht_villager_name":  "阿波罗",
+                  "acnh_villager_code":  "PBR00",
+                  "en_villager_name":  "Apollo",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "阿波罗"
+              },
+    "ANT01":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "阿诚",
+                  "acnh_villager_code":  "ANT01",
+                  "en_villager_name":  "Antonio",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿诚"
+              },
+    "RHN04":  {
+                  "species":  "Rhino",
+                  "zht_villager_name":  "光雄",
+                  "acnh_villager_code":  "RHN04",
+                  "en_villager_name":  "Hornsby",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "光雄"
+              },
+    "PIG10":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "玛格",
+                  "acnh_villager_code":  "PIG10",
+                  "en_villager_name":  "Maggie",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "玛格"
+              },
+    "WOL05":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "冰冰",
+                  "acnh_villager_code":  "WOL05",
+                  "en_villager_name":  "Freya",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "冰冰"
+              },
+    "CHM":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "龙山先生",
+                "acnh_villager_code":  "CHM",
+                "en_villager_name":  "Nat",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "龙山先生"
+            },
+    "MNK03":  {
+                  "species":  "Monkey",
+                  "zht_villager_name":  "四月",
+                  "acnh_villager_code":  "MNK03",
+                  "en_villager_name":  "Tammi",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "四月"
+              },
+    "GOR05":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "空空",
+                  "acnh_villager_code":  "GOR05",
+                  "en_villager_name":  "Boyd",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "空空"
+              },
+    "GOR01":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "哑铃",
+                  "acnh_villager_code":  "GOR01",
+                  "en_villager_name":  "Peewee",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "哑铃"
+              },
+    "BRD02":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "凤尾",
+                  "acnh_villager_code":  "BRD02",
+                  "en_villager_name":  "Anchovy",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "凤尾"
+              },
+    "BRD18":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "周之翔",
+                  "acnh_villager_code":  "BRD18",
+                  "en_villager_name":  "Sparro",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "周之翔"
+              },
+    "GOR10":  {
+                  "species":  "Gorilla",
+                  "zht_villager_name":  "史奈鲁",
+                  "acnh_villager_code":  "GOR10",
+                  "en_villager_name":  "Hans",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "史奈鲁"
+              },
+    "MOL":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "电源叔叔",
+                "acnh_villager_code":  "MOL",
+                "en_villager_name":  "Resetti",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "电源叔叔"
+            },
+    "COW01":  {
+                  "species":  "Cow",
+                  "zht_villager_name":  "牧牧",
+                  "acnh_villager_code":  "COW01",
+                  "en_villager_name":  "Tipper",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "牧牧"
+              },
+    "BRD15":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "摔角鸦",
+                  "acnh_villager_code":  "BRD15",
+                  "en_villager_name":  "Lucha",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "摔角鸦"
+              },
+    "DOG11":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "祥平",
+                  "acnh_villager_code":  "DOG11",
+                  "en_villager_name":  "Frett",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "祥平"
+              },
+    "CAT17":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "美佳",
+                  "acnh_villager_code":  "CAT17",
+                  "en_villager_name":  "Felicity",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "美佳"
+              },
+    "SQU18":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "艾栗丝",
+                  "acnh_villager_code":  "SQU18",
+                  "en_villager_name":  "Hazel",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "艾栗丝"
+              },
+    "PGN09":  {
+                  "species":  "Penguin",
+                  "zht_villager_name":  "竹轮",
+                  "acnh_villager_code":  "PGN09",
+                  "en_villager_name":  "Wade",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "竹轮"
+              },
+    "PLO":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "程信雄",
+                "acnh_villager_code":  "PLO",
+                "en_villager_name":  "Pete",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "程信雄"
+            },
+    "DOC":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "陆德里",
+                "acnh_villager_code":  "DOC",
+                "en_villager_name":  "Wilbur",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "陆德里"
+            },
+    "TKKB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "DJ KK",
+                 "acnh_villager_code":  "TKKB",
+                 "en_villager_name":  "DJ KK",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "DJ KK"
+             },
+    "CBR10":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "樱桃",
+                  "acnh_villager_code":  "CBR10",
+                  "en_villager_name":  "Cheri",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "樱桃"
+              },
+    "HRS03":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "酥饼",
+                  "acnh_villager_code":  "HRS03",
+                  "en_villager_name":  "Elmer",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "酥饼"
+              },
+    "HRS06":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "马誉",
+                  "acnh_villager_code":  "HRS06",
+                  "en_villager_name":  "Ed",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "马誉"
+              },
+    "KGR00":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "缝缝",
+                  "acnh_villager_code":  "KGR00",
+                  "en_villager_name":  "Kitt",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "缝缝"
+              },
+    "RBT21":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "蜜雪儿",
+                  "acnh_villager_code":  "RBT21",
+                  "en_villager_name":  "Sasha",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "蜜雪儿"
+              },
+    "FLG05":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "山姆",
+                  "acnh_villager_code":  "FLG05",
+                  "en_villager_name":  "Wart Jr.",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "山姆"
+              },
+    "RCT":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "粒狸",
+                "acnh_villager_code":  "RCT",
+                "en_villager_name":  "Tommy",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "粒狸"
+            },
+    "CBR06":  {
+                  "species":  "Cub",
+                  "zht_villager_name":  "嘉弼",
+                  "acnh_villager_code":  "CBR06",
+                  "en_villager_name":  "Vladimir",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "嘉弼"
+              },
+    "SHP03":  {
+                  "species":  "Sheep",
+                  "zht_villager_name":  "毡毡",
+                  "acnh_villager_code":  "SHP03",
+                  "en_villager_name":  "Stella",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "毡毡"
+              },
+    "RBT20":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "咚比",
+                  "acnh_villager_code":  "RBT20",
+                  "en_villager_name":  "Toby",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "咚比"
+              },
+    "HRS10":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "笛笛",
+                  "acnh_villager_code":  "HRS10",
+                  "en_villager_name":  "Clyde",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "笛笛"
+              },
+    "OTGB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "巧美",
+                 "acnh_villager_code":  "OTGB",
+                 "en_villager_name":  "Lottie",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "巧美"
+             },
+    "BEY":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "俞司廷",
+                "acnh_villager_code":  "BEY",
+                "en_villager_name":  "C.J.",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "俞司廷"
+            },
+    "DER12":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "米涅鲁",
+                  "acnh_villager_code":  "DER12",
+                  "en_villager_name":  "Mineru",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "米涅鲁"
+              },
+    "BPT":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "星薇",
+                "acnh_villager_code":  "BPT",
+                "en_villager_name":  "Katrina",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "星薇"
+            },
+    "BRD01":  {
+                  "species":  "Bird",
+                  "zht_villager_name":  "喳喳",
+                  "acnh_villager_code":  "BRD01",
+                  "en_villager_name":  "Robin",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "喳喳"
+              },
+    "OST04":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "勒内卢",
+                  "acnh_villager_code":  "OST04",
+                  "en_villager_name":  "Rio",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "勒内卢"
+              },
+    "FLG18":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "小睫",
+                  "acnh_villager_code":  "FLG18",
+                  "en_villager_name":  "Diva",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "小睫"
+              },
+    "SQU16":  {
+                  "species":  "Squirrel",
+                  "zht_villager_name":  "克栗斯",
+                  "acnh_villager_code":  "SQU16",
+                  "en_villager_name":  "Sheldon",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "克栗斯"
+              },
+    "ELP06":  {
+                  "species":  "Elephant",
+                  "zht_villager_name":  "大大",
+                  "acnh_villager_code":  "ELP06",
+                  "en_villager_name":  "Axel",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "大大"
+              },
+    "HRS01":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "圣萝",
+                  "acnh_villager_code":  "HRS01",
+                  "en_villager_name":  "Victoria",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "圣萝"
+              },
+    "MUS00":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "杜美",
+                  "acnh_villager_code":  "MUS00",
+                  "en_villager_name":  "Dora",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "杜美"
+              },
+    "TAP":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "梦美",
+                "acnh_villager_code":  "TAP",
+                "en_villager_name":  "Luna",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "梦美"
+            },
+    "ANT06":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "贵妃",
+                  "acnh_villager_code":  "ANT06",
+                  "en_villager_name":  "Snooty",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "贵妃"
+              },
+    "RBT19":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "蜜拉",
+                  "acnh_villager_code":  "RBT19",
+                  "en_villager_name":  "Mira",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "蜜拉"
+              },
+    "OST10":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "火鸟",
+                  "acnh_villager_code":  "OST10",
+                  "en_villager_name":  "Phoebe",
+                  "personality":  "Big Sister",
+                  "zhs_villager_name":  "火鸟"
+              },
+    "TIG06":  {
+                  "species":  "Tiger",
+                  "zht_villager_name":  "小雪",
+                  "acnh_villager_code":  "TIG06",
+                  "en_villager_name":  "Bianca",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "小雪"
+              },
+    "REI":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "铃铃鹿",
+                "acnh_villager_code":  "REI",
+                "en_villager_name":  "Jingle",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "铃铃鹿"
+            },
+    "PIG02":  {
+                  "species":  "Pig",
+                  "zht_villager_name":  "古烈",
+                  "acnh_villager_code":  "PIG02",
+                  "en_villager_name":  "Rasher",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "古烈"
+              },
+    "KPMB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "沽玉",
+                 "acnh_villager_code":  "KPMB",
+                 "en_villager_name":  "Leilani",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "沽玉"
+             },
+    "WOL01":  {
+                  "species":  "Wolf",
+                  "zht_villager_name":  "潘奇隆",
+                  "acnh_villager_code":  "WOL01",
+                  "en_villager_name":  "Lobo",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "潘奇隆"
+              },
+    "ANT08":  {
+                  "species":  "Anteater",
+                  "zht_villager_name":  "小雅",
+                  "acnh_villager_code":  "ANT08",
+                  "en_villager_name":  "Annalisa",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "小雅"
+              },
+    "CAT05":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "纯纯",
+                  "acnh_villager_code":  "CAT05",
+                  "en_villager_name":  "Tangy",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "纯纯"
+              },
+    "GOA06":  {
+                  "species":  "Goat",
+                  "zht_villager_name":  "班长",
+                  "acnh_villager_code":  "GOA06",
+                  "en_villager_name":  "Velma",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "班长"
+              },
+    "OCP01":  {
+                  "species":  "Octopus",
+                  "zht_villager_name":  "章立娜",
+                  "acnh_villager_code":  "OCP01",
+                  "en_villager_name":  "Marina",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "章立娜"
+              },
+    "SQU20":  {
+                  "species":  "Unknown",
+                  "zht_villager_name":  "弥莎",
+                  "acnh_villager_code":  "SQU20",
+                  "en_villager_name":  "Viché",
+                  "personality":  "Unknown",
+                  "zhs_villager_name":  "弥莎"
+              },
+    "HAM06":  {
+                  "species":  "Hamster",
+                  "zht_villager_name":  "雪美",
+                  "acnh_villager_code":  "HAM06",
+                  "en_villager_name":  "Flurry",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "雪美"
+              },
+    "FLG07":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "阿刻",
+                  "acnh_villager_code":  "FLG07",
+                  "en_villager_name":  "Jeremiah",
+                  "personality":  "Lazy",
+                  "zhs_villager_name":  "阿刻"
+              },
+    "BEA13":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "熊大叔",
+                  "acnh_villager_code":  "BEA13",
+                  "en_villager_name":  "Beardo",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "熊大叔"
+              },
+    "SPN":  {
+                "species":  "Unknown",
+                "zht_villager_name":  "巴猎",
+                "acnh_villager_code":  "SPN",
+                "en_villager_name":  "Harvey",
+                "personality":  "Unknown",
+                "zhs_villager_name":  "巴猎"
+            },
+    "MUS14":  {
+                  "species":  "Mouse",
+                  "zht_villager_name":  "阿聘",
+                  "acnh_villager_code":  "MUS14",
+                  "en_villager_name":  "Moose",
+                  "personality":  "Jock",
+                  "zhs_villager_name":  "阿聘"
+              },
+    "RBT07":  {
+                  "species":  "Rabbit",
+                  "zht_villager_name":  "大姐头",
+                  "acnh_villager_code":  "RBT07",
+                  "en_villager_name":  "Tiffany",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "大姐头"
+              },
+    "CRD04":  {
+                  "species":  "Alligator",
+                  "zht_villager_name":  "大和",
+                  "acnh_villager_code":  "CRD04",
+                  "en_villager_name":  "Del",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "大和"
+              },
+    "OST07":  {
+                  "species":  "Ostrich",
+                  "zht_villager_name":  "凯恩",
+                  "acnh_villager_code":  "OST07",
+                  "en_villager_name":  "Phil",
+                  "personality":  "Smug",
+                  "zhs_villager_name":  "凯恩"
+              },
+    "BEA01":  {
+                  "species":  "Bear",
+                  "zht_villager_name":  "丹丹",
+                  "acnh_villager_code":  "BEA01",
+                  "en_villager_name":  "Pinky",
+                  "personality":  "Peppy",
+                  "zhs_villager_name":  "丹丹"
+              },
+    "HRS02":  {
+                  "species":  "Horse",
+                  "zht_villager_name":  "草斑娜",
+                  "acnh_villager_code":  "HRS02",
+                  "en_villager_name":  "Savannah",
+                  "personality":  "Normal",
+                  "zhs_villager_name":  "草斑娜"
+              },
+    "FLG17":  {
+                  "species":  "Frog",
+                  "zht_villager_name":  "太子",
+                  "acnh_villager_code":  "FLG17",
+                  "en_villager_name":  "Croque",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "太子"
+              },
+    "CAT03":  {
+                  "species":  "Cat",
+                  "zht_villager_name":  "奥莉",
+                  "acnh_villager_code":  "CAT03",
+                  "en_villager_name":  "Olivia",
+                  "personality":  "Snooty",
+                  "zhs_villager_name":  "奥莉"
+              },
+    "KPSB":  {
+                 "species":  "Unknown",
+                 "zht_villager_name":  "沽沽",
+                 "acnh_villager_code":  "KPSB",
+                 "en_villager_name":  "Leila",
+                 "personality":  "Unknown",
+                 "zhs_villager_name":  "沽沽"
+             },
+    "KGR08":  {
+                  "species":  "Kangaroo",
+                  "zht_villager_name":  "袋钢",
+                  "acnh_villager_code":  "KGR08",
+                  "en_villager_name":  "Walt",
+                  "personality":  "Cranky",
+                  "zhs_villager_name":  "袋钢"
+              }
+}
