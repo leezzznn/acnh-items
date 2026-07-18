@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>动森物品查询 - acnh.daozhu.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css?v=20260717u">
+</head>
+<body>
+    <div class="header">
+        <h1 class="page-title">🎮 动森物品查询小助手</h1>
+        <div class="search-bar">
+            <div class="search-input-wrapper">
+                <input type="text" id="searchInput" class="search-input" placeholder="输入物品名称搜索...">
+                <button id="clearBtn" class="clear-btn"><i class="fas fa-times"></i></button>
+                <i class="fas fa-search search-icon"></i>
+            </div>
+            <button id="searchBtn" class="search-btn">搜索</button>
+        </div>
+        <div class="cat-select">
+            <select id="catSelect">
+                <option value="all">全部分类</option>
+            </select>
+        </div>
+        <div class="lang-select">
+            <select id="langSelect">
+                <option value="zhs">简体中文</option>
+                <option value="zht">繁體中文</option>
+            </select>
+        </div>
+    </div>
+
+    <textarea id="command-text"></textarea>
+
+    <div class="container">
+        <div id="itemsContainer" class="items-grid"></div>
+        <div id="randomItemsSection">
+            <div class="random-title">🍃 随机推荐物品 🍃</div>
+            <div id="randomItemsContainer" class="items-grid"></div>
+        </div>
+        <div id="emptyState" class="empty-state" style="display:none;">
+            <div class="empty-icon"><i class="fas fa-search"></i></div>
+            <div class="empty-text">请输入物品名称开始搜索</div>
+        </div>
+    </div>
+
+    <div class="backpack" id="backpack">
+        <div class="backpack-count">🎒 <span id="backpackCountText">0/40</span></div>
+        <div class="backpack-items" id="backpackItems"></div>
+        <button class="copy-btn" id="copyBtn">复制指令</button>
+    </div>
+
+    <div class="toast" id="toast"></div>
+    <div class="loading-overlay" id="loadingOverlay" style="display:none;"><div class="loading-spinner"></div></div>
+
+    <!-- Item Detail Modal -->
+    <div class="modal-overlay" id="itemDetailModal">
+        <div class="modal">
+            <div class="modal-header">
+                <div class="modal-title">物品详情</div>
+                <button class="modal-close" id="closeItemModal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="item-detail-container">
+                    <div class="item-image-container">
+                        <img id="itemImage" class="item-image" src="" alt="" style="display:none;">
+                        <div class="image-placeholder"><i class="fas fa-image"></i><div class="placeholder-text">暂无图片</div></div>
+                    </div>
+                    <div class="item-detail-name" id="itemDetailName"></div>
+                    <div class="item-detail-id" id="itemDetailId"></div>
+                </div>
+                <div class="item-type-selection">
+                    <div class="type-selection-title">选择物品类型</div>
+                    <div class="type-options" id="typeOptions">
+                        <label class="type-option"><input type="radio" name="itemType" value="normal" checked><span class="type-label">普通物品</span></label>
+                        <label class="type-option"><input type="radio" name="itemType" value="diy"><span class="type-label">DIY手册</span></label>
+                        <label class="type-option"><input type="radio" name="itemType" value="bottle"><span class="type-label">漂流瓶</span></label>
+                    </div>
+                </div>
+                <div class="item-type-selection" id="itemSpecSelection" style="display:none;">
+                    <div class="type-selection-title" id="specSelectionTitle">选择规格</div>
+                    <div class="spec-grid" id="specOptions"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-btn modal-btn-cancel" id="cancelAddItem">取消</button>
+                <button class="modal-btn modal-btn-confirm" id="confirmAddItem">添加到背包</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Villager Invite Modal -->
+    <div class="modal-overlay" id="villagerModal">
+        <div class="modal">
+            <div class="modal-header">
+                <div class="modal-title">邀请村民</div>
+                <button class="modal-close" id="closeModal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-search">
+                    <input type="text" class="modal-search-input" id="villagerSearchInput" placeholder="输入村民名称...">
+                </div>
+                <div class="villagers-grid" id="villagersGrid"></div>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-btn modal-btn-cancel" id="cancelInvite">取消</button>
+                <button class="modal-btn modal-btn-confirm" id="confirmInvite">确定邀请</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating Invite Button -->
+    <div class="invite-btn-container" id="inviteBtnContainer">
+        <button class="invite-btn" id="inviteBtn">
+            <i class="fas fa-user-plus"></i>
+            <span class="invite-btn-text">邀请村民</span>
+        </button>
+    </div>
+
+    <!-- Floating Villager Preview -->
+    <div class="villager-preview-container" id="villagerPreviewContainer">
+        <div class="villager-preview" id="villagerPreview">
+            <img class="villager-avatar" id="villagerAvatar" src="" alt="">
+            <div class="villager-info">
+                <div class="villager-name" id="villagerName"></div>
+            </div>
+            <div class="remove-villager" id="removeVillager"><i class="fas fa-times"></i></div>
+        </div>
+    </div>
+
+    <script src="js/app.js?v=20260717u"></script>
+</body>
+</html>
