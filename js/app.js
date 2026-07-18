@@ -5,8 +5,8 @@ console.log("鍔ㄦ．鐗╁搧鍔╂墜 - v6");
 
 // ===== SHEET NAME MAP =====
 var sheetCnMap = {
-    "Accessories":"楗板搧","Art":"鑹烘湳鍝?,"Bags":"鍖呭寘","Bottoms":"瑁ゅ瓙","Clothing Other":"鍏朵粬鏈嶈",
-    "Dress-Up":"杩炶。瑁?,"Fencing":"鏍呮爮","Floors":"鍦版澘","Fossils":"鍖栫煶","Headwear":"澶撮グ",
+    "Accessories":"楗板搧","Art":"鑹烘湳鍝?","Bags":"鍖呭寘","Bottoms":"瑁ゅ瓙","Clothing Other":"鍏朵粬鏈嶈",
+    "Dress-Up":"杩炶。瑁?","Fencing":"鏍呮爮","Floors":"鍦版澘","Fossils":"鍖栫煶","Headwear":"澶撮グ",
     "Housewares":"瀹跺叿","Miscellaneous":"鏉傞」","Music":"闊充箰","Other":"鍏朵粬","Photos":"鐓х墖",
     "Posters":"娴锋姤","Rugs":"鍦版","Shoes":"闉嬪瓙","Socks":"琚滃瓙","Tools":"宸ュ叿","Tops":"涓婅。",
     "Umbrellas":"闆ㄤ紴","Wall-mounted":"澹佹寕","Wallpaper":"澹佺焊"
