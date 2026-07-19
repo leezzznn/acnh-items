@@ -39,10 +39,11 @@
             <div class="random-title">🍃 随机推荐物品 🍃</div>
             <div id="randomItemsContainer" class="items-grid"></div>
         </div>
-        <div id="emptyState" class="empty-state" style="display:none;">
-            <div class="empty-icon"><i class="fas fa-search"></i></div>
-            <div class="empty-text">请输入物品名称开始搜索</div>
-        </div>
+    </div>
+    <!-- emptyState 移到 container 外，作为覆盖层 -->
+    <div id="emptyState" class="empty-state-overlay" style="display:none;">
+        <div class="empty-icon"><i class="fas fa-search"></i></div>
+        <div class="empty-text">请输入物品名称开始搜索</div>
     </div>
 
     <div class="backpack" id="backpack">
