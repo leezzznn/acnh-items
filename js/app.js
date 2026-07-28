@@ -1,4 +1,4 @@
-﻿// 动森物品查询小助手 v6 - 纯客户端版
+// 动森物品查询小助手 v6 - 纯客户端版
 (function() {
 "use strict";
 console.log("动森物品助手 - v6");
@@ -15,9 +15,9 @@ var sheetCnMap = {
 // ===== CONSTANTS =====
 var MAX_BACKPACK = 40;
 // 修复 2026-07-16: 改用本地图片（acnhcdn 全部 404）
-var ACNHCDN = "img/";
-var LOCAL_IMG = "img/";
-var VILLAGER_IMG_DIR = "img/";
+var ACNHCDN = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items/img/";
+var LOCAL_IMG = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items/img/";
+var VILLAGER_IMG_DIR = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items/img/";
 var IMG_MAP = {}; // hex(无0x大写) -> filename
 
 // ===== RECIPE LIST =====
@@ -1410,7 +1410,6 @@ loadData().then(function(){
     showToast("数据加载失败，请刷新页面");
 });
 })();
-
 
 
 
