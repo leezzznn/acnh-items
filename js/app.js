@@ -827,8 +827,9 @@ function getItemImageURL(itemId, suffix) {
             // 兼容精简格式 (v/f) 和完整格式 (variation/filename)
             var variantFilename = item.variants[variantIndex].f || item.variants[variantIndex].filename;
             if (variantFilename) {
-                return LOCAL_IMG + variantFilename + ".png";
-            }
+    var fixedFn = variantFilename.replace(/([^_])Remake/, "$1_Remake");
+    return LOCAL_IMG + fixedFn + ".png";
+}
         }
         // 回退到 base filename
         if (item.filename) {
