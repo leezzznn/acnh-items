@@ -854,7 +854,7 @@ function getLocalImageURL(fn) { return LOCAL_IMG + fn + ".png"; }
 function getVillagerImageURL(code) {
     // 使用原始文件名格式的村民图片路径
     // 村民代码首字母需要大写 (如 bul08 -> Bul08)
-    var capitalizedCode = code.charAt(0).toUpperCase() + code.slice(1);
+   var capitalizedCode = code.charAt(0).toUpperCase() + code.slice(1).toLowerCase();
     return LOCAL_IMG + "BromideNpcNml" + capitalizedCode + "_Remake_0_0.png";
 }
 
