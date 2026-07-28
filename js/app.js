@@ -15,9 +15,9 @@ var sheetCnMap = {
 // ===== CONSTANTS =====
 var MAX_BACKPACK = 40;
 // 修复 2026-07-16: 改用本地图片（acnhcdn 全部 404）
-var ACNHCDN = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items/img/";
-var LOCAL_IMG = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items/img/";
-var VILLAGER_IMG_DIR = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items/img/";
+var ACNHCDN = "img/";
+var LOCAL_IMG = "img/";
+var VILLAGER_IMG_DIR = "img/";
 var IMG_MAP = {}; // hex(无0x大写) -> filename
 
 // ===== RECIPE LIST =====
