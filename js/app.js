@@ -1345,44 +1345,6 @@ function initDraggable(el) {
 }
 
 
-// ===== ORDER API =====
-document.getElementById("orderBtn").addEventListener("click", function() {
-    var items = [];
-    backpack.forEach(function(entry) {
-        var h = cleanHex(entry.item.hex);
-        if (entry.type === "diy") { var rh = getRecipeHex(entry.item.id); if (rh) items.push(rh + "000016A2"); }
-        else if (entry.type === "bottle") { var rh = getRecipeHex(entry.item.id); if (rh) items.push(rh + "000016A1"); }
-        else { items.push(entry.suffix === "0" ? h : entry.suffix + "0000" + h.padStart(4,"0")); }
-    });
-    if (items.length === 0 && !selectedVillager) { showToast("背包为空"); return; }
-    
-    var body = { items: items };
-    if (selectedVillager) body.villager = selectedVillager.acnh_villager_code;
-    
-    var btn = document.getElementById("orderBtn");
-    btn.textContent = "⏳ 生成中...";
-    btn.disabled = true;
-    
-    fetch("/api/order", {
-        method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body)
-    }).then(function(r){ return r.json(); }).then(function(d){
-        btn.textContent = "📋 生成订单号";
-        btn.disabled = false;
-        if (d.success) {
-            var result = document.getElementById("orderResult");
-            result.style.display = "";
-            result.innerHTML = "订单号: <strong>" + d.orderId + '</strong><br><span style="font-size:12px;color:#666;">在KOOK输入: $order ' + d.orderId + "</span>";
-            showToast("订单已生成: " + d.orderId);
-        } else {
-            showToast("生成失败");
-        }
-    }).catch(function(){
-        btn.textContent = "📋 生成订单号";
-        btn.disabled = false;
-        showToast("网络错误");
-    });
-});
-
 // ===== EVENTS =====
 searchInput.addEventListener("input",function(){
     clearBtn.classList.toggle("visible", !!searchInput.value.trim());
