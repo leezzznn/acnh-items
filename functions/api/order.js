@@ -16,11 +16,11 @@ export async function onRequest(context) {
       const items = (Array.isArray(body.items) ? body.items : []).map(String);
       const maxItems = express ? 120 : 40;
       const used = items.slice(0, maxItems);
-      if (used.length === 0) {
-        return new Response(JSON.stringify({ success: false, error: "没有可生成的物品" }), { headers: cors });
+      if (used.length === 0 && !body.villager) {
+        return new Response(JSON.stringify({ success: false, error: "没有可生成的物品或村民" }), { headers: cors });
       }
       const id = "ACNH-" + Date.now().toString(36).toUpperCase().slice(-6) + Math.random().toString(36).substring(2, 4).toUpperCase();
-      const raw = "%ordercat " + used.join(" ") + (body.villager ? " villager:" + body.villager : "");
+      const raw = "%ordercat" + (used.length > 0 ? " " + used.join(" ") : "") + (body.villager ? " villager:" + body.villager : "");
       const record = { id, raw };
       if (express && dodo) record.dodo = dodo;
       if (env && env.KV) await env.KV.put(id, JSON.stringify(record), { expirationTtl: 86400 });
