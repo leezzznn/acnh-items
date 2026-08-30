@@ -6,7 +6,27 @@
     <title>动森物品查询 - acnh.daozhu.com</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="css/style.css?v=20260717u">
-<style>.order-btn{margin-top:4px}</style>
+<style>
+.order-btn{margin-top:4px}
+.backpack-item-qty-num{font-size:12px;color:#666;margin-left:auto;font-weight:600;white-space:nowrap;}
+.qty-btn{width:24px;height:24px;border-radius:6px;border:1px solid #aaa;background:#f2f2f2;color:#333;font-size:14px;line-height:1;cursor:pointer;padding:0;}
+.order-qty-stepper{display:flex;align-items:center;gap:8px;margin:6px 0 2px;}
+.order-qty-stepper input{width:64px;text-align:center;font-size:16px;padding:6px;border:2px solid #b8cbb8;border-radius:6px;box-sizing:border-box;}
+.history-row{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:10px;border:1px solid #e0e0e0;border-radius:8px;margin-bottom:8px;background:#fafafa;cursor:pointer;}
+.history-row-main{flex:1;min-width:0;}
+.history-row-id{font-weight:600;font-size:14px;}
+.history-row-meta{font-size:12px;color:#888;margin-top:2px;}
+.history-del{width:26px;height:26px;border:none;background:none;color:#c0392b;font-size:18px;cursor:pointer;}
+.history-detail-id{font-weight:700;font-size:15px;}
+.history-detail-meta{font-size:12px;color:#888;margin:2px 0 6px;}
+.history-detail-dodo,.history-detail-villager{font-size:13px;margin:3px 0;color:#444;}
+.history-items{margin-top:8px;}
+.history-item{display:flex;align-items:center;gap:8px;padding:6px 0;border-bottom:1px dashed #e5e5e5;}
+.history-item-img{width:40px;height:40px;object-fit:contain;}
+.history-item-name{flex:1;font-size:13px;}
+.history-item-variant{color:#888;font-size:12px;}
+.history-item-qty{font-size:13px;color:#555;font-weight:600;}
+</style>
 </head>
 <body>
     <div class="header">
@@ -55,6 +75,14 @@
         </button>
     </div>
 
+    <!-- History Floating Button -->
+    <div style="position:fixed;left:88px;top:50%;transform:translateY(-50%);z-index:99;" id="historyFabContainer">
+        <button class="backpack-fab" id="historyFab" style="background:var(--acnh-purple,#8e6bb0);border-color:#7a5ba0;box-shadow:0 3px 0 #6b4f8f;">
+            <i class="fas fa-history"></i>
+            <span class="backpack-fab-text">历史</span>
+        </button>
+    </div>
+
     <!-- Backpack Modal -->
     <div class="modal-overlay" id="backpackModal">
         <div class="modal" style="max-width:520px;">
@@ -76,6 +104,24 @@
             </div>
         </div>
     </div>
+    </div>
+
+    <!-- History Modal -->
+    <div class="modal-overlay" id="historyModal">
+        <div class="modal" style="max-width:520px;">
+            <div class="modal-header">
+                <div class="modal-title">📜 历史订单</div>
+                <button class="modal-close" id="closeHistoryModal">&times;</button>
+            </div>
+            <div class="modal-body" style="max-height:420px;overflow-y:auto;">
+                <div id="historyList"></div>
+                <div id="historyDetail" style="display:none;"></div>
+            </div>
+            <div class="modal-footer" style="justify-content:space-between;">
+                <button class="modal-btn" id="historyBackBtn" style="display:none;background:var(--acnh-gray,#999);border-color:#888;box-shadow:0 3px 0 #777;font-size:13px;">← 返回列表</button>
+                <button class="modal-btn" id="clearHistoryBtn" style="background:var(--acnh-red);color:white;border:2px solid #c0392b;box-shadow:0 3px 0 #c0392b;font-size:13px;">🗑️ 清空历史</button>
+            </div>
+        </div>
     </div>
 
     <div class="toast" id="toast"></div>
@@ -108,6 +154,14 @@
                 <div class="item-type-selection" id="itemSpecSelection" style="display:none;">
                     <div class="type-selection-title" id="specSelectionTitle">选择规格</div>
                     <div class="spec-grid" id="specOptions"></div>
+                </div>
+                <div class="item-type-selection" id="itemQtySelection">
+                    <div class="type-selection-title">数量</div>
+                    <div class="order-qty-stepper">
+                        <button type="button" class="qty-btn" id="itemQtyMinus">−</button>
+                        <input type="number" id="itemQtyInput" value="1" min="1" max="120" inputmode="numeric">
+                        <button type="button" class="qty-btn" id="itemQtyPlus">+</button>
+                    </div>
                 </div>
             </div>
             <div class="modal-footer">
@@ -160,6 +214,6 @@
         <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener" style="color:#888;text-decoration:none;">粤ICP备2026105541号-1</a>
     </footer>
 
-    <script src="app.js?v=20260824f"></script>
+    <script src="app.js?v=20260830b"></script>
 </body>
 </html>

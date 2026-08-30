@@ -3218,10 +3218,6 @@ var VARIANT_NAME_OVERRIDES = {
     "12688|Variant Remake_1_0": "广场长椅-经典",
     "12688|Variant Remake_2_0": "广场长椅-可爱",
     "12688|Variant Remake_3_0": "广场长椅-酷感",
-    "12689|Variant Remake_0_0": "广场拱门-酷感",
-    "12689|Variant Remake_1_0": "广场拱门-缤纷",
-    "12689|Variant Remake_2_0": "广场拱门-经典",
-    "12689|Variant Remake_3_0": "广场拱门-可爱",
     "12690|Variant Remake_0_0": "广场游戏摊贩-缤纷",
     "12690|Variant Remake_1_0": "广场游戏摊贩-经典",
     "12690|Variant Remake_2_0": "广场游戏摊贩-可爱",
@@ -7328,11 +7324,6 @@ var VARIANT_NAME_OVERRIDES = {
     "13474|Variant Remake_3_0": "警报器-蓝色",
     "13474|Variant Remake_4_0": "警报器-紫色",
     "13474|Variant Remake_5_0": "警报器-白色",
-    "13475|Variant Remake_0_0": "蜡烛吊灯-银色",
-    "13475|Variant Remake_1_0": "蜡烛吊灯-金色",
-    "13475|Variant Remake_2_0": "蜡烛吊灯-铁锈",
-    "13475|Variant Remake_3_0": "蜡烛吊灯-黑色",
-    "13475|Variant Remake_4_0": "蜡烛吊灯-白色",
     "13478|Variant Remake_0_0": "打碟机-银色",
     "13478|Variant Remake_1_0": "打碟机-黑色",
     "13478|Variant Remake_2_0": "打碟机-白色",
@@ -9897,10 +9888,6 @@ var VARIANT_NAME_OVERRIDES = {
     "14212|Variant Remake_0_0": "光藓泉水-祖母绿",
     "14212|Variant Remake_1_0": "光藓泉水-绿色",
     "14212|Variant Remake_2_0": "光藓泉水-紫色",
-    "14213|Variant Remake_0_0": "光藓石像-浅棕色",
-    "14213|Variant Remake_1_0": "光藓石像-黑色",
-    "14213|Variant Remake_2_0": "光藓石像-苔石色",
-    "14213|Variant Remake_3_0": "光藓石像-灰色",
     "14214|Variant Remake_0_0": "光藓培养架子-银色",
     "14214|Variant Remake_1_0": "光藓培养架子-黑色",
     "14214|Variant Remake_2_0": "光藓培养架子-白色",
@@ -12569,14 +12556,6 @@ var VARIANT_NAME_OVERRIDES = {
     "1803|Variant Remake_7_3": "爵士鼓组合-黑&白-白色标志",
     "1803|Variant Remake_7_4": "爵士鼓组合-黑&白-坚硬标志",
     "1803|Variant Remake_7_5": "爵士鼓组合-黑&白-复古标志",
-    "1804|Variant Remake_0_0": "电贝司-宇宙银",
-    "1804|Variant Remake_1_0": "电贝司-典雅白色",
-    "1804|Variant Remake_2_0": "电贝司-自然木色",
-    "1804|Variant Remake_3_0": "电贝司-日耀",
-    "1804|Variant Remake_4_0": "电贝司-宇宙黑",
-    "1804|Variant Remake_5_0": "电贝司-深海",
-    "1804|Variant Remake_6_0": "电贝司-灰绿色",
-    "1804|Variant Remake_7_0": "电贝司-惊艳粉",
     "1816|Variant Remake_0_0": "试衣间-灰色-白色",
     "1816|Variant Remake_0_1": "试衣间-灰色-紫色",
     "1816|Variant Remake_0_2": "试衣间-灰色-黑色",
@@ -15457,12 +15436,6 @@ var VARIANT_NAME_OVERRIDES = {
     "397|Variant Remake_5_0": "宋信美的照片-彩色",
     "397|Variant Remake_6_0": "宋信美的照片-银色",
     "397|Variant Remake_7_0": "宋信美的照片-金色",
-    "3980|Variant Remake_0_0": "贝壳桌-紫色",
-    "3980|Variant Remake_1_0": "贝壳桌-珍珠",
-    "3980|Variant Remake_2_0": "贝壳桌-白色",
-    "3980|Variant Remake_3_0": "贝壳桌-棕色",
-    "3980|Variant Remake_4_0": "贝壳桌-粉红色",
-    "3980|Variant Remake_5_0": "贝壳桌-黄色",
     "3982|Variant Remake_0_0": "贝壳喷泉-白色",
     "3982|Variant Remake_1_0": "贝壳喷泉-棕色",
     "3982|Variant Remake_2_0": "贝壳喷泉-粉红色",
@@ -22700,11 +22673,6 @@ var VARIANT_NAME_OVERRIDES = {
     "7302,12007,12008|Variant 0": "运动包-蓝色",
     "7302,12007,12008|Variant 1": "运动包-红色",
     "7302,12007,12008|Variant 2": "运动包-黑色",
-    "7317|Variant Remake_0_0": "和风墓碑-本小松石",
-    "7317|Variant Remake_1_0": "和风墓碑-黑色花岗岩",
-    "7317|Variant Remake_2_0": "和风墓碑-花岗岩",
-    "7317|Variant Remake_3_0": "和风墓碑-烂掉的石头",
-    "7317|Variant Remake_4_0": "和风墓碑-白色花岗岩",
     "731|Variant 0": "蒸汽庞克连身裙-蓝色",
     "731|Variant 1": "蒸汽庞克连身裙-蓝色",
     "731|Variant 2": "蒸汽庞克连身裙-绿色",
@@ -27987,7 +27955,39 @@ var VARIANT_NAME_OVERRIDES = {
     "9958|Variant 3": "绿色纯色雨伞",
     "9959|Variant 1": "红色纯色雨伞",
     "9959|Variant 2": "蓝色纯色雨伞",
-    "9959|Variant 3": "绿色纯色雨伞"
+    "9959|Variant 3": "绿色纯色雨伞",
+    "13475|Variant Remake_0_0": "蜡烛吊灯-黑色",
+    "13475|Variant Remake_1_0": "蜡烛吊灯-白色",
+    "13475|Variant Remake_2_0": "蜡烛吊灯-银色",
+    "13475|Variant Remake_3_0": "蜡烛吊灯-金色",
+    "13475|Variant Remake_4_0": "蜡烛吊灯-铁锈",
+    "1804|Variant Remake_0_0": "电贝司-典雅白色",
+    "1804|Variant Remake_1_0": "电贝司-自然木色",
+    "1804|Variant Remake_2_0": "电贝司-日耀",
+    "1804|Variant Remake_3_0": "电贝司-宇宙黑",
+    "1804|Variant Remake_4_0": "电贝司-深海",
+    "1804|Variant Remake_5_0": "电贝司-灰绿色",
+    "1804|Variant Remake_6_0": "电贝司-惊艳粉",
+    "1804|Variant Remake_7_0": "电贝司-宇宙银",
+    "14213|Variant Remake_0_0": "光藓石像-灰色",
+    "14213|Variant Remake_1_0": "光藓石像-浅棕色",
+    "14213|Variant Remake_2_0": "光藓石像-黑色",
+    "14213|Variant Remake_3_0": "光藓石像-苔石色",
+    "12689|Variant Remake_0_0": "广场拱门-缤纷",
+    "12689|Variant Remake_1_0": "广场拱门-经典",
+    "12689|Variant Remake_2_0": "广场拱门-可爱",
+    "12689|Variant Remake_3_0": "广场拱门-酷感",
+    "3980|Variant Remake_0_0": "贝壳桌-白色",
+    "3980|Variant Remake_1_0": "贝壳桌-棕色",
+    "3980|Variant Remake_2_0": "贝壳桌-粉红色",
+    "3980|Variant Remake_3_0": "贝壳桌-黄色",
+    "3980|Variant Remake_4_0": "贝壳桌-紫色",
+    "3980|Variant Remake_5_0": "贝壳桌-珍珠",
+    "7317|Variant Remake_0_0": "和风墓碑-白色花岗岩",
+    "7317|Variant Remake_1_0": "和风墓碑-本小松石",
+    "7317|Variant Remake_2_0": "和风墓碑-黑色花岗岩",
+    "7317|Variant Remake_3_0": "和风墓碑-花岗岩",
+    "7317|Variant Remake_4_0": "和风墓碑-烂掉的石头"
 };
 
 
@@ -28299,20 +28299,62 @@ function doSearch() {
 }
 
 // ===== BACKPACK =====
-function addToBackpack(item, type, specSuffix) {
-    if (backpack.length >= MAX_BACKPACK) {
-        showToast(lang==="zhs"?"背包已满（120个物品）":"背包已滿（120個物品）");
-        return;
-    }
-    backpack.push({item:item, type:type||"normal", suffix:specSuffix||"0"});
-    updateBackpack();
+function backpackTotal() {
+    var s = 0;
+    backpack.forEach(function(e){ s += Math.max(1, parseInt(e.qty)||1); });
+    return s;
 }
-function removeFromBackpack(index) { backpack.splice(index,1); updateBackpack(); }
+function saveBackpack() {
+    try { localStorage.setItem("acnh_backpack_v1", JSON.stringify(backpack)); } catch(e) {}
+    try {
+        if (selectedVillager) localStorage.setItem("acnh_villager_v1", selectedVillager.acnh_villager_code);
+        else localStorage.removeItem("acnh_villager_v1");
+    } catch(e) {}
+}
+function loadBackpack() {
+    try {
+        var raw = localStorage.getItem("acnh_backpack_v1");
+        if (raw) {
+            var arr = JSON.parse(raw);
+            if (Array.isArray(arr)) {
+                backpack = arr.filter(function(e){ return e && e.item; }).map(function(e){
+                    e.qty = Math.max(1, parseInt(e.qty)||1); return e;
+                });
+            }
+        }
+        var vc = localStorage.getItem("acnh_villager_v1");
+        if (vc && villagers.length) {
+            for (var i=0;i<villagers.length;i++){
+                if (villagers[i].acnh_villager_code === vc){ selectedVillager = villagers[i]; break; }
+            }
+        }
+    } catch(e) { backpack = []; }
+    updateBackpack();
+    updateVillagerPreview();
+}
+function addToBackpack(item, type, specSuffix, qty) {
+    var n = Math.max(1, parseInt(qty)||1);
+    if (backpackTotal() + n > MAX_BACKPACK) {
+        showToast(lang==="zhs"?"背包已满（120个物品）":"背包已滿（120個物品）");
+        return false;
+    }
+    var keyType = type||"normal", keySuffix = specSuffix||"0";
+    for (var i=0;i<backpack.length;i++){
+        var e = backpack[i];
+        if (e.item && e.item.id === item.id && e.type === keyType && e.suffix === keySuffix){
+            e.qty = Math.min(MAX_BACKPACK, (e.qty||1) + n);
+            updateBackpack(); saveBackpack(); return true;
+        }
+    }
+    backpack.push({item:item, type:keyType, suffix:keySuffix, qty:n});
+    updateBackpack(); saveBackpack(); return true;
+}
+function removeFromBackpack(index) { backpack.splice(index,1); updateBackpack(); saveBackpack(); }
 function updateBackpack() {
     backpackItems.innerHTML = "";
-    document.getElementById("backpackCountText").textContent = backpack.length+"/"+MAX_BACKPACK;
+    document.getElementById("backpackCountText").textContent = backpackTotal()+"/"+MAX_BACKPACK;
     var badge = document.getElementById("backpackFabBadge");
-    if (badge) badge.textContent = backpack.length;
+    if (badge) badge.textContent = backpackTotal();
     backpack.forEach(function(entry, idx){
         var item = entry.item, type = entry.type, suffix = entry.suffix;
         var div = document.createElement("div");
@@ -28333,12 +28375,15 @@ function updateBackpack() {
         var nm = document.createElement("div");
         nm.className = "backpack-item-name";
         nm.textContent = getDisplayName(item);
+        var qn = document.createElement("div");
+        qn.className = "backpack-item-qty-num";
+        qn.textContent = "×" + (entry.qty||1);
         var rm = document.createElement("div");
         rm.className = "backpack-item-remove";
         rm.innerHTML = '<i class="fas fa-times"></i>';
         rm.addEventListener("click",function(e){ e.stopPropagation(); removeFromBackpack(idx); });
-    div.addEventListener("click",function(e){ if(e.target.closest(".backpack-item-remove")) return; openDetailModal(item); });
-        div.appendChild(iconDiv); div.appendChild(nm); div.appendChild(rm);
+        div.addEventListener("click",function(e){ if(e.target.closest(".backpack-item-remove")) return; openDetailModal(item); });
+        div.appendChild(iconDiv); div.appendChild(nm); div.appendChild(qn); div.appendChild(rm);
         backpackItems.appendChild(div);
     });
 }
@@ -28359,9 +28404,156 @@ function clearBackpack() {
     backpack = [];
     selectedVillager = null;
     updateBackpack();
+    saveBackpack();
     updateVillagerPreview();
     showToast(lang==="zhs"?"背包已清空":"背包已清空");
     closeBackpackModal();
+}
+
+// ===== ORDER HISTORY (localStorage) =====
+function getOrders() {
+    try {
+        var raw = localStorage.getItem("acnh_orders_v1");
+        var arr = raw ? JSON.parse(raw) : [];
+        return Array.isArray(arr) ? arr : [];
+    } catch(e) { return []; }
+}
+function saveOrders(list) {
+    try { localStorage.setItem("acnh_orders_v1", JSON.stringify(list.slice(0, 200))); } catch(e) {}
+}
+function addOrderHistory(id, raw, express, dodo) {
+    if (!id) return;
+    var list = getOrders();
+    list.unshift({ id:id, created:new Date().toISOString(), raw:raw||"", express:!!express, dodo:dodo||"" });
+    saveOrders(list);
+}
+function removeOrderHistory(id) { saveOrders(getOrders().filter(function(o){ return o.id !== id; })); }
+function clearOrderHistory() {
+    try { localStorage.removeItem("acnh_orders_v1"); } catch(e) {}
+}
+function formatOrderTime(iso) {
+    try {
+        var d = new Date(iso);
+        function p(n){ return (n<10?"0":"")+n; }
+        return d.getFullYear()+"-"+p(d.getMonth()+1)+"-"+p(d.getDate())+" "+p(d.getHours())+":"+p(d.getMinutes());
+    } catch(e) { return iso || ""; }
+}
+function resolveOrderToken(token) {
+    token = String(token||"").trim().toUpperCase();
+    var type = "normal", recipeHex = null, baseHex = null, variantValue = 0;
+    if (/000016A2$/.test(token) && token.length >= 12) { type = "diy"; recipeHex = token.slice(0,-8); }
+    else if (/000016A1$/.test(token) && token.length >= 12) { type = "bottle"; recipeHex = token.slice(0,-8); }
+    else {
+        var m = token.match(/^([0-9A-F]+)0000([0-9A-F]{4})$/);
+        if (m && token.length > 4) { variantValue = parseInt(m[1],16); baseHex = m[2]; }
+        else { baseHex = cleanHexPadded(token); variantValue = 0; }
+    }
+    var item = null;
+    if (recipeHex) {
+        for (var i=0;i<allItems.length;i++){
+            var it = allItems[i];
+            var rh = getRecipeHex(it.id);
+            if (rh && String(rh).toUpperCase() === recipeHex) { item = it; break; }
+        }
+    } else {
+        for (var j=0;j<allItems.length;j++){
+            var it2 = allItems[j];
+            var hexes = String(it2.hex||"").split(",").map(function(x){ return cleanHex(x.trim()); });
+            if (hexes.indexOf(baseHex) !== -1) { item = it2; break; }
+        }
+    }
+    if (!item) return { name:"未知物品", token:token, variant:"", image:"", type:type };
+    var idx = "0", variantName = "";
+    if (item.variants && item.variants.length) {
+        if (variantValue === 0) {
+            idx = getDefaultVariantIndex(item);
+        } else {
+            for (var k=0;k<item.variants.length;k++){
+                if (getItemVariantValue(item, String(k)) === variantValue) { idx = String(k); break; }
+            }
+        }
+        var vi = parseInt(idx)||0;
+        if (vi >= 0 && vi < item.variants.length) variantName = getVariantDisplayName(item, item.variants[vi], vi);
+        else if (variantValue !== 0) variantName = "变体 " + variantValue;
+    }
+    var image = "";
+    if (item.filename || (item.variants && item.variants.length)) image = getItemImageURL(item.id, idx);
+    return { name:getDisplayName(item), variant:variantName, image:image, token:token, type:type };
+}
+function parseOrderRaw(raw) {
+    var parts = String(raw||"").trim().split(/\s+/);
+    var items = [], villager = null;
+    for (var i=0;i<parts.length;i++){
+        var p = parts[i]; if (!p) continue;
+        if (p.toLowerCase() === "%ordercat") continue;
+        if (/^villager:/i.test(p)) { villager = p.slice(9); continue; }
+        items.push(resolveOrderToken(p));
+    }
+    var groups = [], map = {};
+    items.forEach(function(r){
+        var key = r.name + "|" + r.variant;
+        if (map[key] !== undefined) { groups[map[key]].qty++; }
+        else { map[key] = groups.length; r.qty = 1; groups.push(r); }
+    });
+    return { items:items, groups:groups, villager:villager };
+}
+function getVillagerNameByCode(code) {
+    if (!code) return "";
+    for (var i=0;i<villagers.length;i++){
+        if (villagers[i].acnh_villager_code === code) return getVillagerDisplay(villagers[i]);
+    }
+    return code;
+}
+function openHistory() {
+    document.getElementById("historyDetail").style.display = "none";
+    document.getElementById("historyList").style.display = "block";
+    document.getElementById("historyBackBtn").style.display = "none";
+    var box = document.getElementById("historyList");
+    var list = getOrders();
+    box.innerHTML = "";
+    if (!list.length) {
+        box.innerHTML = '<div class="empty-state"><div class="empty-text">'+(lang==="zhs"?"还没有历史订单":"還沒有歷史訂單")+'</div></div>';
+    }
+    list.forEach(function(o){
+        var parsed = parseOrderRaw(o.raw||"");
+        var tags = [];
+        if (o.express) tags.push("🚚快递");
+        if (parsed.villager) tags.push("🏠村民");
+        var row = document.createElement("div");
+        row.className = "history-row";
+        row.innerHTML = '<div class="history-row-main"><div class="history-row-id">'+o.id+'</div>' +
+            '<div class="history-row-meta">'+formatOrderTime(o.created)+' · '+parsed.groups.length+' 种物品'+(tags.length?' · '+tags.join(" "):'')+'</div></div>' +
+            '<button type="button" class="history-del" title="删除">×</button>';
+        row.querySelector(".history-row-main").addEventListener("click", function(){ showHistoryDetail(o); });
+        row.querySelector(".history-del").addEventListener("click", function(e){ e.stopPropagation(); removeOrderHistory(o.id); openHistory(); });
+        box.appendChild(row);
+    });
+    document.getElementById("historyModal").classList.add("active");
+    document.body.style.overflow = "hidden";
+}
+function closeHistory() {
+    document.getElementById("historyModal").classList.remove("active");
+    document.body.style.overflow = "";
+}
+function showHistoryDetail(o) {
+    var parsed = parseOrderRaw(o.raw||"");
+    document.getElementById("historyList").style.display = "none";
+    document.getElementById("historyDetail").style.display = "block";
+    document.getElementById("historyBackBtn").style.display = "inline-block";
+    var html = '<div class="history-detail-id">'+o.id+'</div>' +
+        '<div class="history-detail-meta">'+formatOrderTime(o.created)+'</div>';
+    if (o.express && o.dodo) html += '<div class="history-detail-dodo">🚚 快递 DODO：'+o.dodo+'</div>';
+    if (parsed.villager) html += '<div class="history-detail-villager">🏠 村民：'+getVillagerNameByCode(parsed.villager)+'（'+parsed.villager+'）</div>';
+    html += '<div class="history-items">';
+    if (!parsed.groups.length) html += '<div class="history-item"><div class="history-item-name">（空订单）</div></div>';
+    parsed.groups.forEach(function(g){
+        html += '<div class="history-item">' +
+            (g.image ? '<img class="history-item-img" loading="lazy" src="'+g.image+'" onerror="this.style.display=\'none\'">' : '') +
+            '<div class="history-item-name">'+g.name+(g.variant?' <span class="history-item-variant">'+g.variant+'</span>':'')+'</div>' +
+            '<div class="history-item-qty">×'+g.qty+'</div></div>';
+    });
+    html += '</div>';
+    document.getElementById("historyDetail").innerHTML = html;
 }
 
 // ===== COPY =====
@@ -28528,6 +28720,7 @@ function closeDetailModal() {
 function confirmAddItem() {
     if (!currentItem) return;
     var type = document.querySelector("input[name=itemType]:checked").value;
+    var qty = Math.max(1, parseInt(document.getElementById("itemQtyInput").value)||1);
     if (type === "normal") {
         var checked = document.querySelectorAll("#specOptions input[type=checkbox]:checked");
         var values;
@@ -28539,21 +28732,21 @@ function confirmAddItem() {
             showToast(lang==="zhs"?"请至少选择一个变体":"請至少選擇一個變體");
             return;
         }
-        var remaining = MAX_BACKPACK - backpack.length;
+        var remaining = MAX_BACKPACK - backpackTotal();
         if (remaining <= 0) {
             showToast(lang==="zhs"?"背包已满（120个物品）":"背包已滿（120個物品）");
             return;
         }
         var added = 0;
         for (var i = 0; i < values.length; i++) {
-            if (added >= remaining) break;
-            addToBackpack(currentItem, "normal", values[i]);
-            added++;
+            var take = Math.min(qty, remaining - added);
+            if (take <= 0) break;
+            if (addToBackpack(currentItem, "normal", values[i], take)) added += take;
         }
-        if (values.length > added) showToast(lang==="zhs"?"背包空间不足，已添加 "+added+" 个":"背包空間不足，已添加 "+added+" 個");
-        else showToast(lang==="zhs"?"已添加 "+added+" 个变体":"已添加 "+added+" 個變體");
+        if (values.length * qty > added) showToast(lang==="zhs"?"背包空间不足，已添加 "+added+" 个":"背包空間不足，已添加 "+added+" 個");
+        else showToast(lang==="zhs"?"已添加 "+added+" 个":"已添加 "+added+" 個");
     } else {
-        addToBackpack(currentItem, type, "0");
+        addToBackpack(currentItem, type, "0", qty);
         showToast(lang==="zhs"?"已添加到背包":"已添加到背包");
     }
     closeDetailModal();
@@ -28691,9 +28884,13 @@ document.getElementById("orderBtn").addEventListener("click", function() {
     var items = [];
     backpack.forEach(function(e) {
         var h = cleanHex(e.item.hex);
-        if (e.type === "diy") { var rh = getRecipeHex(e.item.id); if (rh) items.push(rh + "000016A2"); }
-        else if (e.type === "bottle") { var rh = getRecipeHex(e.item.id); if (rh) items.push(rh + "000016A1"); }
-        else { items.push(getItemOrderHex(e.item, e.suffix)); }
+        var token = "";
+        if (e.type === "diy") { var rh = getRecipeHex(e.item.id); if (rh) token = rh + "000016A2"; }
+        else if (e.type === "bottle") { var rh = getRecipeHex(e.item.id); if (rh) token = rh + "000016A1"; }
+        else { token = getItemOrderHex(e.item, e.suffix); }
+        if (!token) return;
+        var n = Math.max(1, parseInt(e.qty)||1);
+        for (var k=0;k<n;k++) items.push(token);
     });
     if (items.length > NORMAL_ORDER_MAX) {
         items = items.slice(0, NORMAL_ORDER_MAX);
@@ -28706,7 +28903,7 @@ document.getElementById("orderBtn").addEventListener("click", function() {
     fetch("/api/order", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) })
     .then(function(r2){ return r2.json(); })
     .then(function(d) {
-        if (d && d.success) fullCmd = "%订单 " + d.orderId;
+        if (d && d.success) { fullCmd = "%订单 " + d.orderId; addOrderHistory(d.orderId, d.raw, false, ""); }
     })
     .then(function() {
         btn.textContent = "📋 生成订单号"; btn.disabled = false;
@@ -28745,9 +28942,13 @@ document.getElementById("expressOrderBtn").addEventListener("click", function() 
     var items = [];
     backpack.forEach(function(e) {
         var h = cleanHex(e.item.hex);
-        if (e.type === "diy") { var rh = getRecipeHex(e.item.id); if (rh) items.push(rh + "000016A2"); }
-        else if (e.type === "bottle") { var rh = getRecipeHex(e.item.id); if (rh) items.push(rh + "000016A1"); }
-        else { items.push(getItemOrderHex(e.item, e.suffix)); }
+        var token = "";
+        if (e.type === "diy") { var rh = getRecipeHex(e.item.id); if (rh) token = rh + "000016A2"; }
+        else if (e.type === "bottle") { var rh = getRecipeHex(e.item.id); if (rh) token = rh + "000016A1"; }
+        else { token = getItemOrderHex(e.item, e.suffix); }
+        if (!token) return;
+        var n = Math.max(1, parseInt(e.qty)||1);
+        for (var k=0;k<n;k++) items.push(token);
     });
     if (items.length > MAX_BACKPACK) items = items.slice(0, MAX_BACKPACK);
     var fullCmd = "%订单 %ordercat " + items.join(" ") + " " + dodo;
@@ -28757,7 +28958,7 @@ document.getElementById("expressOrderBtn").addEventListener("click", function() 
     fetch("/api/order", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) })
     .then(function(r2){ return r2.json(); })
     .then(function(d) {
-        if (d && d.success) fullCmd = "%订单 " + d.orderId + " " + dodo;
+        if (d && d.success) { fullCmd = "%订单 " + d.orderId + " " + dodo; addOrderHistory(d.orderId, d.raw, true, dodo); }
     })
     .then(function() {
         btn.textContent = "🚚 生成快递订单"; btn.disabled = false;
@@ -28851,12 +29052,41 @@ document.getElementById("closeBackpackModal").addEventListener("click", closeBac
 document.getElementById("clearBackpackBtn").addEventListener("click", clearBackpack);
 document.getElementById("backpackModal").addEventListener("click", function(e){ if(e.target === this) closeBackpackModal(); });
 
+// ===== QUANTITY + HISTORY EVENT LISTENERS =====
+document.getElementById("itemQtyMinus").addEventListener("click", function(){
+    var el = document.getElementById("itemQtyInput");
+    el.value = Math.max(1, (parseInt(el.value)||1) - 1);
+});
+document.getElementById("itemQtyPlus").addEventListener("click", function(){
+    var el = document.getElementById("itemQtyInput");
+    el.value = Math.min(MAX_BACKPACK, (parseInt(el.value)||1) + 1);
+});
+document.getElementById("itemQtyInput").addEventListener("change", function(){
+    var el = this;
+    el.value = Math.max(1, Math.min(MAX_BACKPACK, parseInt(el.value)||1));
+});
+document.getElementById("historyFab").addEventListener("click", openHistory);
+document.getElementById("closeHistoryModal").addEventListener("click", closeHistory);
+document.getElementById("clearHistoryBtn").addEventListener("click", function(){
+    clearOrderHistory();
+    openHistory();
+    showToast(lang==="zhs"?"历史已清空":"歷史已清空");
+});
+document.getElementById("historyBackBtn").addEventListener("click", function(){
+    document.getElementById("historyDetail").style.display = "none";
+    document.getElementById("historyList").style.display = "block";
+    this.style.display = "none";
+});
+document.getElementById("historyModal").addEventListener("click", function(e){ if(e.target === this) closeHistory(); });
+
 // ===== INIT =====
 initDraggable(document.getElementById("inviteBtnContainer"));
 initDraggable(document.getElementById("villagerPreviewContainer"));
 initDraggable(document.getElementById("backpackFabContainer"));
+initDraggable(document.getElementById("historyFabContainer"));
 loadData().then(function(){
     hideLoading();
+    loadBackpack();
     updateBackpack();
     updateVillagerPreview();
 }).catch(function(err){
