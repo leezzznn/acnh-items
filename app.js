@@ -28421,10 +28421,10 @@ function getOrders() {
 function saveOrders(list) {
     try { localStorage.setItem("acnh_orders_v1", JSON.stringify(list.slice(0, 200))); } catch(e) {}
 }
-function addOrderHistory(id, raw, express, dodo) {
+function addOrderHistory(id, raw, express, dodo, near) {
     if (!id) return;
     var list = getOrders();
-    list.unshift({ id:id, created:new Date().toISOString(), raw:raw||"", express:!!express, dodo:dodo||"" });
+    list.unshift({ id:id, created:new Date().toISOString(), raw:raw||"", express:!!express, dodo:dodo||"", near:!!near });
     saveOrders(list);
 }
 function removeOrderHistory(id) { saveOrders(getOrders().filter(function(o){ return o.id !== id; })); }
@@ -28518,6 +28518,7 @@ function openHistory() {
         var parsed = parseOrderRaw(o.raw||"");
         var tags = [];
         if (o.express) tags.push("🚚快递");
+        if (o.near) tags.push("📍身边");
         if (parsed.villager) tags.push("🏠村民");
         var row = document.createElement("div");
         row.className = "history-row";
@@ -28876,6 +28877,11 @@ function initDraggable(el) {
 }
 
 
+function getDropNearCustomer() {
+    var el = document.getElementById("dropNearCustomerInput");
+    return !!(el && el.checked);
+}
+
 document.getElementById("orderBtn").addEventListener("click", function() {
     if (backpack.length === 0 && !selectedVillager) { showToast("背包为空"); return; }
     var btn = document.getElementById("orderBtn");
@@ -28897,13 +28903,13 @@ document.getElementById("orderBtn").addEventListener("click", function() {
         showToast("普通订单最多 " + NORMAL_ORDER_MAX + " 件，只提交前 " + NORMAL_ORDER_MAX + " 件");
     }
     var fullCmd = "%订单 %ordercat " + items.join(" ") + (selectedVillager ? " villager:" + selectedVillager.acnh_villager_code : "");
-    var body = { items: items };
+    var body = { items: items, dropNearCustomer: getDropNearCustomer() };
     if (selectedVillager) body.villager = selectedVillager.acnh_villager_code;
     
     fetch("/api/order", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) })
     .then(function(r2){ return r2.json(); })
     .then(function(d) {
-        if (d && d.success) { fullCmd = "%订单 " + d.orderId; addOrderHistory(d.orderId, d.raw, false, ""); }
+        if (d && d.success) { fullCmd = "%订单 " + d.orderId; addOrderHistory(d.orderId, d.raw, false, "", getDropNearCustomer()); }
     })
     .then(function() {
         btn.textContent = "📋 生成订单号"; btn.disabled = false;
@@ -28952,13 +28958,13 @@ document.getElementById("expressOrderBtn").addEventListener("click", function() 
     });
     if (items.length > MAX_BACKPACK) items = items.slice(0, MAX_BACKPACK);
     var fullCmd = "%订单 %ordercat " + items.join(" ") + " " + dodo;
-    var body = { items: items, express: true, dodo: dodo };
+    var body = { items: items, express: true, dodo: dodo, dropNearCustomer: getDropNearCustomer() };
     if (selectedVillager) body.villager = selectedVillager.acnh_villager_code;
 
     fetch("/api/order", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) })
     .then(function(r2){ return r2.json(); })
     .then(function(d) {
-        if (d && d.success) { fullCmd = "%订单 " + d.orderId + " " + dodo; addOrderHistory(d.orderId, d.raw, true, dodo); }
+        if (d && d.success) { fullCmd = "%订单 " + d.orderId + " " + dodo; addOrderHistory(d.orderId, d.raw, true, dodo, getDropNearCustomer()); }
     })
     .then(function() {
         btn.textContent = "🚚 生成快递订单"; btn.disabled = false;
