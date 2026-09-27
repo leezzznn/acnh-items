@@ -28421,10 +28421,10 @@ function getOrders() {
 function saveOrders(list) {
     try { localStorage.setItem("acnh_orders_v1", JSON.stringify(list.slice(0, 200))); } catch(e) {}
 }
-function addOrderHistory(id, raw, express, dodo, near) {
+function addOrderHistory(id, raw, express, dodo, near, layout) {
     if (!id) return;
     var list = getOrders();
-    list.unshift({ id:id, created:new Date().toISOString(), raw:raw||"", express:!!express, dodo:dodo||"", near:!!near });
+    list.unshift({ id:id, created:new Date().toISOString(), raw:raw||"", express:!!express, dodo:dodo||"", near:!!near, layout:layout||"ring" });
     saveOrders(list);
 }
 function removeOrderHistory(id) { saveOrders(getOrders().filter(function(o){ return o.id !== id; })); }
@@ -28518,7 +28518,7 @@ function openHistory() {
         var parsed = parseOrderRaw(o.raw||"");
         var tags = [];
         if (o.express) tags.push("🚚快递");
-        if (o.near) tags.push("📍身边");
+        if (o.near) tags.push("📍身边" + (o.layout === "line" ? "·直线" : "·环形"));
         if (parsed.villager) tags.push("🏠村民");
         var row = document.createElement("div");
         row.className = "history-row";
@@ -28882,6 +28882,11 @@ function getDropNearCustomer() {
     return !!(el && el.checked);
 }
 
+function getDropLayout() {
+    var el = document.querySelector('input[name="dropLayout"]:checked');
+    return el ? el.value : "ring";
+}
+
 document.getElementById("orderBtn").addEventListener("click", function() {
     if (backpack.length === 0 && !selectedVillager) { showToast("背包为空"); return; }
     var btn = document.getElementById("orderBtn");
@@ -28904,12 +28909,13 @@ document.getElementById("orderBtn").addEventListener("click", function() {
     }
     var fullCmd = "%订单 %ordercat " + items.join(" ") + (selectedVillager ? " villager:" + selectedVillager.acnh_villager_code : "");
     var body = { items: items, dropNearCustomer: getDropNearCustomer() };
+    if (body.dropNearCustomer) body.dropLayout = getDropLayout();
     if (selectedVillager) body.villager = selectedVillager.acnh_villager_code;
     
     fetch("/api/order", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) })
     .then(function(r2){ return r2.json(); })
     .then(function(d) {
-        if (d && d.success) { fullCmd = "%订单 " + d.orderId; addOrderHistory(d.orderId, d.raw, false, "", getDropNearCustomer()); }
+        if (d && d.success) { fullCmd = "%订单 " + d.orderId; addOrderHistory(d.orderId, d.raw, false, "", getDropNearCustomer(), getDropLayout()); }
     })
     .then(function() {
         btn.textContent = "📋 生成订单号"; btn.disabled = false;
@@ -28959,12 +28965,13 @@ document.getElementById("expressOrderBtn").addEventListener("click", function() 
     if (items.length > MAX_BACKPACK) items = items.slice(0, MAX_BACKPACK);
     var fullCmd = "%订单 %ordercat " + items.join(" ") + " " + dodo;
     var body = { items: items, express: true, dodo: dodo, dropNearCustomer: getDropNearCustomer() };
+    if (body.dropNearCustomer) body.dropLayout = getDropLayout();
     if (selectedVillager) body.villager = selectedVillager.acnh_villager_code;
 
     fetch("/api/order", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) })
     .then(function(r2){ return r2.json(); })
     .then(function(d) {
-        if (d && d.success) { fullCmd = "%订单 " + d.orderId + " " + dodo; addOrderHistory(d.orderId, d.raw, true, dodo, getDropNearCustomer()); }
+        if (d && d.success) { fullCmd = "%订单 " + d.orderId + " " + dodo; addOrderHistory(d.orderId, d.raw, true, dodo, getDropNearCustomer(), getDropLayout()); }
     })
     .then(function() {
         btn.textContent = "🚚 生成快递订单"; btn.disabled = false;
@@ -29084,6 +29091,17 @@ document.getElementById("historyBackBtn").addEventListener("click", function(){
     this.style.display = "none";
 });
 document.getElementById("historyModal").addEventListener("click", function(e){ if(e.target === this) closeHistory(); });
+
+// ===== 投放方式显示/隐藏（只有勾了"投送到我身边"才显示） =====
+(function(){
+    var nearEl = document.getElementById("dropNearCustomerInput");
+    var layoutBox = document.getElementById("layoutBox");
+    function syncLayoutBox(){
+        if (layoutBox) layoutBox.style.display = (nearEl && nearEl.checked) ? "block" : "none";
+    }
+    if (nearEl) nearEl.addEventListener("change", syncLayoutBox);
+    syncLayoutBox();
+})();
 
 // ===== INIT =====
 initDraggable(document.getElementById("inviteBtnContainer"));

@@ -96,9 +96,22 @@
             </div>
             <div class="modal-footer" style="justify-content:space-between;flex-wrap:wrap;gap:8px;">
                 <label style="flex:0 0 100%;display:flex;align-items:flex-start;gap:6px;font-size:12px;color:#555;line-height:1.5;cursor:pointer;margin-bottom:2px;">
-                    <input type="checkbox" id="dropNearCustomerInput" style="margin-top:2px;flex:0 0 auto;">
-                    <span>让机器人飞到我站的位置丢货<br><span style="color:#c0392b;">⚠️ 请站在空地中间，下完单不要走动</span></span>
+                    <input type="checkbox" id="dropNearCustomerInput" name="dropNearCustomer" style="margin-top:2px;flex:0 0 auto;">
+                    <span>让机器人飞到我站的位置丢货<br><span style="color:#c0392b;">⚠️ 请站在空地中间，下完单机器人快来之前不要走动</span></span>
                 </label>
+                <div id="layoutBox" style="flex:0 0 100%;display:none;margin-top:2px;font-size:12px;color:#555;line-height:1.5;">
+                    <div style="margin-bottom:6px;">投放方式：</div>
+                    <label style="display:block;margin-bottom:6px;cursor:pointer;">
+                        <input type="radio" name="dropLayout" value="ring" checked>
+                        <b>环形铺开</b>（适合大片空地）
+                        <div style="color:#888;font-size:12px;margin-left:20px;">请站在大片空地中间，机器人会以你为中心往四周铺开（约 13×13 格）</div>
+                    </label>
+                    <label style="display:block;cursor:pointer;">
+                        <input type="radio" name="dropLayout" value="line">
+                        <b>3×3 直线</b>（适合马路 / 小路）
+                        <div style="color:#888;font-size:12px;margin-left:20px;">请站在马路中间，机器人会先往左铺满、再往右铺，一排满了往北换排</div>
+                    </label>
+                </div>
                 <button class="modal-btn" id="clearBackpackBtn" style="background:var(--acnh-red);color:white;border:2px solid #c0392b;box-shadow:0 3px 0 #c0392b;font-size:13px;">🗑️ 清空</button>
                 <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;">
                     <button class="modal-btn modal-btn-confirm" id="orderBtn" style="font-size:13px;padding:8px 14px;">📋 生成订单</button>
@@ -218,6 +231,6 @@
         <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener" style="color:#888;text-decoration:none;">粤ICP备2026105541号-1</a>
     </footer>
 
-    <script src="app.js?v=20260926a"></script>
+    <script src="app.js?v=20260927a"></script>
 </body>
 </html>
