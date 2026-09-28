@@ -111,6 +111,11 @@
                         <b>3×3 直线</b>（适合马路 / 小路）
                         <div style="color:#888;font-size:12px;margin-left:20px;">请站在马路中间，机器人会先往左铺满、再往右铺，一排满了往北换排</div>
                     </label>
+                    <label style="display:block;cursor:pointer;margin-top:6px;">
+                        <input type="radio" name="dropLayout" value="cross">
+                        <b>十字铺开</b>（适合十字路口）
+                        <div style="color:#888;font-size:12px;margin-left:20px;">请站在路口中间：机器人以你为中心，沿着你这一排和你这一列由近到远交替铺；只有横路或只有竖路也能选它，铺不下的那一边会自动跳过</div>
+                    </label>
                 </div>
                 <button class="modal-btn" id="clearBackpackBtn" style="background:var(--acnh-red);color:white;border:2px solid #c0392b;box-shadow:0 3px 0 #c0392b;font-size:13px;">🗑️ 清空</button>
                 <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;">

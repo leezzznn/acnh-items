@@ -11,7 +11,8 @@ export async function onRequest(context) {
       const express = !!body.express;
       const dodo = body.dodo ? String(body.dodo).trim().toUpperCase() : "";
       const dropNearCustomer = !!body.dropNearCustomer;
-      const dropLayout = String(body.dropLayout || "ring").toLowerCase() === "line" ? "line" : "ring";
+      const layoutRaw = String(body.dropLayout || "ring").toLowerCase();
+      const dropLayout = layoutRaw === "line" || layoutRaw === "cross" ? layoutRaw : "ring";
       if (express && !/^[A-Z0-9]{5}$/.test(dodo)) {
         return new Response(JSON.stringify({ success: false, error: "DODO码格式不正确" }), { headers: cors });
       }
@@ -36,7 +37,8 @@ export async function onRequest(context) {
       if (!raw) return new Response(JSON.stringify({ success: false, error: "不存在" }), { headers: cors });
       const order = JSON.parse(raw);
       order.dropNearCustomer = !!order.dropNearCustomer;
-      order.dropLayout = String(order.dropLayout || "ring").toLowerCase() === "line" ? "line" : "ring";
+      const layoutRawGet = String(order.dropLayout || "ring").toLowerCase();
+      order.dropLayout = layoutRawGet === "line" || layoutRawGet === "cross" ? layoutRawGet : "ring";
       return new Response(JSON.stringify({ success: true, order }), { headers: cors });
     }
 
