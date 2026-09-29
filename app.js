@@ -28518,7 +28518,7 @@ function openHistory() {
         var parsed = parseOrderRaw(o.raw||"");
         var tags = [];
         if (o.express) tags.push("🚚快递");
-        if (o.near) tags.push("📍身边" + (o.layout === "line" ? "·直线" : "·环形"));
+        if (o.near) tags.push("📍身边" + (o.layout === "line" ? "·直线" : o.layout === "cross" ? "·十字" : o.layout === "beach" ? "·沙滩" : "·矩形"));
         if (parsed.villager) tags.push("🏠村民");
         var row = document.createElement("div");
         row.className = "history-row";
