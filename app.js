@@ -15,7 +15,7 @@ var sheetCnMap = {
 };
 
 // ===== CONSTANTS =====
-var MAX_BACKPACK = 120;
+var MAX_BACKPACK = 999;
 var NORMAL_ORDER_MAX = 40;
 // 修复 2026-07-16: 改用本地图片（acnhcdn 全部 404）
 var ACNHCDN = "https://cdn.jsdelivr.net/gh/leezzznn/acnh-items@44fc620/img/";
@@ -28335,7 +28335,7 @@ function loadBackpack() {
 function addToBackpack(item, type, specSuffix, qty) {
     var n = Math.max(1, parseInt(qty)||1);
     if (backpackTotal() + n > MAX_BACKPACK) {
-        showToast(lang==="zhs"?"背包已满（120个物品）":"背包已滿（120個物品）");
+        showToast(lang==="zhs"?"背包已满（999个物品）":"背包已滿（999個物品）");
         return false;
     }
     var keyType = type||"normal", keySuffix = specSuffix||"0";
@@ -28735,7 +28735,7 @@ function confirmAddItem() {
         }
         var remaining = MAX_BACKPACK - backpackTotal();
         if (remaining <= 0) {
-            showToast(lang==="zhs"?"背包已满（120个物品）":"背包已滿（120個物品）");
+            showToast(lang==="zhs"?"背包已满（999个物品）":"背包已滿（999個物品）");
             return;
         }
         var added = 0;

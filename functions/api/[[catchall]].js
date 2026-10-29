@@ -18,7 +18,7 @@ export async function onRequest(context) {
         return new Response(JSON.stringify({ success: false, error: "DODO码格式不正确" }), { headers: cors });
       }
       const items = (Array.isArray(body.items) ? body.items : []).map(String);
-      const maxItems = express ? 120 : 40;
+      const maxItems = express ? 999 : 40;
       const used = items.slice(0, maxItems);
       if (used.length === 0) {
         return new Response(JSON.stringify({ success: false, error: "没有可生成的物品" }), { headers: cors });
