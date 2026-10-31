@@ -28935,14 +28935,20 @@ document.getElementById("orderBtn").addEventListener("click", function() {
                 document.body.appendChild(ta);
                 ta.focus(); ta.select();
                 try { document.execCommand("copy"); } catch(e2) {
-                    r.innerHTML = '<div style="font-size:11px;color:#666;margin-bottom:4px;">请选择以下文本手动复制:</div>' +
+                    r.innerHTML += '<div style="font-size:11px;color:#666;margin-top:4px;">请选择以下文本手动复制:</div>' +
                         '<textarea readonly style="width:100%;padding:6px;font-size:12px;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;height:36px;" onclick="this.select()">' + copyText + '</textarea>';
                 }
                 document.body.removeChild(ta);
             }
         }, 100);
     })
-    .catch(function(){});
+    .catch(function(err) {
+        btn.textContent = "📋 生成订单号"; btn.disabled = false;
+        showToast("订单生成失败，请重试");
+        r.style.cssText = "display:block;margin-top:6px;padding:10px;background:#ffebee;border:1px solid #ef9a9a;border-radius:6px;text-align:center;font-size:13px;color:#c62828;";
+        r.innerHTML = '<div style="font-size:15px;font-weight:700;margin-bottom:4px;">❌ 订单生成失败</div>'
+            + '<div style="font-size:12px;">' + (err && err.message ? err.message : "请检查网络后重试") + '</div>';
+    });
 });
 document.getElementById("expressOrderBtn").addEventListener("click", function() {
     if (backpack.length === 0 && !selectedVillager) { showToast("背包为空"); return; }
@@ -28990,14 +28996,20 @@ document.getElementById("expressOrderBtn").addEventListener("click", function() 
                 document.body.appendChild(ta);
                 ta.focus(); ta.select();
                 try { document.execCommand("copy"); } catch(e2) {
-                    r.innerHTML = '<div style="font-size:11px;color:#666;margin-bottom:4px;">请选择以下文本手动复制:</div>' +
+                    r.innerHTML += '<div style="font-size:11px;color:#666;margin-top:4px;">请选择以下文本手动复制:</div>' +
                         '<textarea readonly style="width:100%;padding:6px;font-size:12px;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;height:36px;" onclick="this.select()">' + copyText + '</textarea>';
                 }
                 document.body.removeChild(ta);
             }
         }, 100);
     })
-    .catch(function(){ btn.textContent = "🚚 生成快递订单"; btn.disabled = false; });
+    .catch(function(err) {
+        btn.textContent = "🚚 生成快递订单"; btn.disabled = false;
+        showToast("订单生成失败，请重试");
+        r.style.cssText = "display:block;margin-top:6px;padding:10px;background:#ffebee;border:1px solid #ef9a9a;border-radius:6px;text-align:center;font-size:13px;color:#c62828;";
+        r.innerHTML = '<div style="font-size:15px;font-weight:700;margin-bottom:4px;">❌ 订单生成失败</div>'
+            + '<div style="font-size:12px;">' + (err && err.message ? err.message : "请检查网络后重试") + '</div>';
+    });
 });
 // ===== EVENTS =====
 searchInput.addEventListener("input",function(){
